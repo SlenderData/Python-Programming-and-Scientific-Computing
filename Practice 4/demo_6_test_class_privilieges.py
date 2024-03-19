@@ -1,6 +1,6 @@
 # 当前日期：2024-03-19
 # 姓名：马云骥
-# 定义User、Privileges和Admin类，包括登录尝试和显示权限
+# 测试Privilege类
 
 class User:
     # 表示一个用户
