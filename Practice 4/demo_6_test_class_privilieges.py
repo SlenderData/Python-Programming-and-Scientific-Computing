@@ -1,6 +1,6 @@
 # 当前日期：2024-03-19
 # 姓名：马云骥
-# 测试Privilege类
+# 测试Privileges类
 
 class User:
     # 表示一个用户
