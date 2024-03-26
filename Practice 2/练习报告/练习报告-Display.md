@@ -1,63 +1,4 @@
-<!-- 请使用 Typora + LaTeX-theme 来预览、编辑和导出PDF
-Typora: https://typora.io/
-LaTeX-theme: https://github.com/Keldos-Li/typora-latex-theme
-Fonts: https://github.com/Keldos-Li/typora-latex-theme-fonts -->
-
-<div class="cover" style="page-break-after:always;font-family:方正公文仿宋;width:100%;height:100%;border:none;margin: 0 auto;text-align:center;">
-    <div style="width:60%;margin: 0 auto;height:0;padding-bottom:10%;">
-        </br></br></br></br></br></br>
-        <img src="https://raw.githubusercontent.com/SlenderData/img/main/images/%E5%B8%B8%E7%94%A8/%E5%AD%A6%E6%A0%A1%E6%A0%87%E8%AF%86/%E6%B1%9F%E8%8B%8F%E5%A4%A7%E5%AD%A6%E4%BA%AC%E6%B1%9F%E5%AD%A6%E9%99%A2/%E6%96%87%E5%AD%97%E7%BB%84%E5%90%88%E6%A8%AA%E6%8E%92.svg" alt="校名" style="width:100%;"/>
-    </div>
-    </br></br></br></br></br></br></br></br></br></br>
-    <div style="width:40%;margin: 0 auto;height:0;padding-bottom:40%;">
-        <img src="https://raw.githubusercontent.com/SlenderData/img/main/images/%E5%B8%B8%E7%94%A8/%E5%AD%A6%E6%A0%A1%E6%A0%87%E8%AF%86/%E6%B1%9F%E8%8B%8F%E5%A4%A7%E5%AD%A6%E4%BA%AC%E6%B1%9F%E5%AD%A6%E9%99%A2/%E6%A0%A1%E5%BE%BD.svg" alt="校徽" style="width:100%;"/>
-	</div>
-    </br></br></br>
-    <span style="font-family:华文黑体Bold;text-align:center;font-size:30pt;margin: 10pt auto;line-height:40pt;">Python编程与科学计算<br>练习报告</span>
-    </br>
-    </br>
-    </br>
-    </br>
-    <table style="border:none;text-align:center;width:72%;font-family:仿宋;font-size:14px; margin: 0 auto;">
-    <tbody style="font-family:方正公文仿宋;font-size:12pt;">
-    	<tr style="font-weight:normal;"> 
-    		<td style="width:5%;text-align:right;">题&emsp;&emsp;目</td>
-    		<td style="width:2%">：</td> 
-    		<td style="width:40%;font-weight:normal;border-bottom: 1px solid;text-align:center;font-family:华文仿宋">第二课&emsp;课后练习</td>     </tr>
-    	<tr style="font-weight:normal;"> 
-    		<td style="width:5%;text-align:right;">授课教师</td>
-    		<td style="width:2%">：</td> 
-    		<td style="width:40%;font-weight:normal;border-bottom: 1px solid;text-align:center;font-family:华文仿宋">王洪金</td>     </tr>
-    	<tr style="font-weight:normal;"> 
-    		<td style="width:5%;text-align:right;">姓&emsp;&emsp;名</td>
-    		<td style="width:2%">：</td> 
-    		<td style="width:40%;font-weight:normal;border-bottom: 1px solid;text-align:center;font-family:华文仿宋">马云骥</td>     </tr>
-    	<tr style="font-weight:normal;"> 
-    		<td style="width:5%;text-align:right;">学&emsp;&emsp;号</td>
-    		<td style="width:2%">：</td> 
-    		<td style="width:40%;font-weight:normal;border-bottom: 1px solid;text-align:center;font-family:华文仿宋">4211153047</td>     </tr>
-        <tr style="font-weight:normal;"> 
-    		<td style="width:5%;text-align:right;">专&emsp;&emsp;业</td>
-    		<td style="width:2%">：</td> 
-    		<td style="width:40%;font-weight:normal;border-bottom: 1px solid;text-align:center;font-family:华文仿宋">软件工程</td>     </tr>
-    	<tr style="font-weight:normal;"> 
-    		<td style="width:5%;text-align:right;">班&emsp;&emsp;级</td>
-    		<td style="width:2%">：</td> 
-    		<td style="width:40%;font-weight:normal;border-bottom: 1px solid;text-align:center;font-family:华文仿宋">J软件(嵌入)(专转本)2102</td>     </tr>
-    	<tr style="font-weight:normal;"> 
-    		<td style="width:5%;text-align:right;">日&emsp;&emsp;期</td>
-    		<td style="width:2%">：</td> 
-    		<td style="width:40%;font-weight:normal;border-bottom: 1px solid;text-align:center;font-family:华文仿宋">2024.03.26</td>     </tr>
-    </tbody>              
-    </table>
-</div>
-
-
-<!-- 导出PDF时会在这里分页 -->
-
 # 第二课&emsp;课后练习
-
-
 
 ## 练习1：餐馆订位
 
@@ -87,8 +28,6 @@ else:
 ### 结果输出
 
 ![截屏2024-03-26-12.56.55](https://raw.githubusercontent.com/SlenderData/img/main/images/2024/03/26/13-03-19-8b6d070a87655e3f1b9ca2936334798a-截屏2024-03-26-12.56.55-055b04.png)
-
-
 
 ## 练习2：人生的不同阶段
 
@@ -133,8 +72,6 @@ else:
 
 ![截屏2024-03-26-12.57.36](https://raw.githubusercontent.com/SlenderData/img/main/images/2024/03/26/13-03-43-1f6df6e06029483c304aa0a1d16dbbae-截屏2024-03-26-12.57.36-824a5b.png)
 
-
-
 ## 练习3：电影票
 
 ### 题目叙述
@@ -174,8 +111,6 @@ while True:
 
 ![截屏2024-03-26-12.58.24](https://raw.githubusercontent.com/SlenderData/img/main/images/2024/03/26/13-04-00-b9f718598295c6cd4aded06f77d2f290-截屏2024-03-26-12.58.24-b6d5a4.png)
 
-
-
 ## 练习4：梦想的度假胜地
 
 ### 题目叙述
@@ -212,8 +147,6 @@ for name, place in dream_vacations.items():
 ### 结果输出
 
 ![截屏2024-03-26-13.00.17](https://raw.githubusercontent.com/SlenderData/img/main/images/2024/03/26/13-04-18-42cac4db586738b11644c228e27d1da5-截屏2024-03-26-13.00.17-f42896.png)
-
-
 
 ## 练习5：比萨配料
 
