@@ -23,7 +23,7 @@ Fonts: https://github.com/Keldos-Li/typora-latex-theme-fonts -->
     	<tr style="font-weight:normal;"> 
     		<td style="width:5%;text-align:right;">题&emsp;&emsp;目</td>
     		<td style="width:2%">：</td> 
-    		<td style="width:40%;font-weight:normal;border-bottom: 1px solid;text-align:center;font-family:华文仿宋">第一课&emsp;课后练习</td>     </tr>
+    		<td style="width:40%;font-weight:normal;border-bottom: 1px solid;text-align:center;font-family:华文仿宋">第二课&emsp;课后练习</td>     </tr>
     	<tr style="font-weight:normal;"> 
     		<td style="width:5%;text-align:right;">授课教师</td>
     		<td style="width:2%">：</td> 
@@ -83,7 +83,7 @@ print(message)
 
 ### 结果输出
 
-![截屏2024-03-26 12.56.55](https://raw.githubusercontent.com/SlenderData/img/main/images/2024/03/26/13-03-19-8b6d070a87655e3f1b9ca2936334798a-截屏2024-03-26 12.56.55-055b04.png)
+![截屏2024-03-26-12.56.55](https://raw.githubusercontent.com/SlenderData/img/main/images/2024/03/26/13-03-19-8b6d070a87655e3f1b9ca2936334798a-截屏2024-03-26-12.56.55-055b04.png)
 
 
 
@@ -111,7 +111,7 @@ print(f"Hello {name}, would you like to learn some Python today?")
 
 ### 结果输出
 
-![截屏2024-03-26 12.57.36](https://raw.githubusercontent.com/SlenderData/img/main/images/2024/03/26/13-03-43-1f6df6e06029483c304aa0a1d16dbbae-截屏2024-03-26 12.57.36-824a5b.png)
+![截屏2024-03-26-12.57.36](https://raw.githubusercontent.com/SlenderData/img/main/images/2024/03/26/13-03-43-1f6df6e06029483c304aa0a1d16dbbae-截屏2024-03-26-12.57.36-824a5b.png)
 
 
 
@@ -141,7 +141,7 @@ print(name.capitalize())
 
 ### 结果输出
 
-![截屏2024-03-26 12.58.24](https://raw.githubusercontent.com/SlenderData/img/main/images/2024/03/26/13-04-00-b9f718598295c6cd4aded06f77d2f290-截屏2024-03-26 12.58.24-b6d5a4.png)
+![截屏2024-03-26-12.58.24](https://raw.githubusercontent.com/SlenderData/img/main/images/2024/03/26/13-04-00-b9f718598295c6cd4aded06f77d2f290-截屏2024-03-26-12.58.24-b6d5a4.png)
 
 
 
@@ -173,7 +173,7 @@ print(message)
 
 ### 结果输出
 
-![截屏2024-03-26 13.00.17](https://raw.githubusercontent.com/SlenderData/img/main/images/2024/03/26/13-04-18-42cac4db586738b11644c228e27d1da5-截屏2024-03-26 13.00.17-f42896.png)
+![截屏2024-03-26-13.00.17](https://raw.githubusercontent.com/SlenderData/img/main/images/2024/03/26/13-04-18-42cac4db586738b11644c228e27d1da5-截屏2024-03-26-13.00.17-f42896.png)
 
 
 
@@ -209,4 +209,4 @@ print(16/2)
 
 ### 结果输出
 
-![截屏2024-03-26 13.02.22](https://raw.githubusercontent.com/SlenderData/img/main/images/2024/03/26/13-04-34-7c3a3cc24c4be87aa7b43301619f1b8d-截屏2024-03-26 13.02.22-48cf78.png)
+![截屏2024-03-26-13.02.22](https://raw.githubusercontent.com/SlenderData/img/main/images/2024/03/26/13-04-34-7c3a3cc24c4be87aa7b43301619f1b8d-截屏2024-03-26-13.02.22-48cf78.png)
