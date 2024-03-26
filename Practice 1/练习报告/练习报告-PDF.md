@@ -83,7 +83,7 @@ print(message)
 
 ### 结果输出
 
-![Snipaste_2024-03-20_14-48-26](https://raw.githubusercontent.com/SlenderData/img/main/images/Snipaste_2024-03-20_14-48-26.png)
+![](https://raw.githubusercontent.com/SlenderData/img/main/images/2024/03/26/12-44-43-bc8e758b73ca16bc575b7179ca8a1df7-截屏2024-03-26 12.43.22-0974d5.png)
 
 
 
@@ -111,7 +111,7 @@ print(f"Hello {name}, would you like to learn some Python today?")
 
 ### 结果输出
 
-![Snipaste_2024-03-20_15-10-15](https://raw.githubusercontent.com/SlenderData/img/main/images/Snipaste_2024-03-20_15-10-15.png)
+![](https://raw.githubusercontent.com/SlenderData/img/main/images/2024/03/26/12-44-43-56cf6b8ea9fa23dfb09daedbbdec6486-截屏2024-03-26 12.43.30-176e67.png)
 
 
 
@@ -141,7 +141,7 @@ print(name.capitalize())
 
 ### 结果输出
 
-![Snipaste_2024-03-20_15-52-28](https://raw.githubusercontent.com/SlenderData/img/main/images/Snipaste_2024-03-20_15-52-28.png)
+![](https://raw.githubusercontent.com/SlenderData/img/main/images/2024/03/26/12-44-43-36c37d4e4cd4e0730ef02d82fe4c4b1f-截屏2024-03-26 12.44.07-7df2b4.png)
 
 
 
@@ -173,7 +173,7 @@ print(message)
 
 ### 结果输出
 
-![Snipaste_2024-03-20_15-54-23](https://raw.githubusercontent.com/SlenderData/img/main/images/Snipaste_2024-03-20_15-54-23.png)
+![](https://raw.githubusercontent.com/SlenderData/img/main/images/2024/03/26/12-44-43-08fd0d46c743651959e24521f254bf5d-截屏2024-03-26 12.44.16-0f4279.png)
 
 
 
@@ -209,4 +209,4 @@ print(16/2)
 
 ### 结果输出
 
-![Snipaste_2024-03-20_15-57-38](https://raw.githubusercontent.com/SlenderData/img/main/images/Snipaste_2024-03-20_15-57-38.png)
+![](https://raw.githubusercontent.com/SlenderData/img/main/images/2024/03/26/12-44-43-c6ae4ff71ee1fcede00a7136d3193f77-截屏2024-03-26 12.44.24-5d775b.png)
