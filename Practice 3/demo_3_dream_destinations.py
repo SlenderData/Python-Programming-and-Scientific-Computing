@@ -2,7 +2,7 @@
 # 姓名：马云骥
 # 放眼世界
 
-places = ['New Zealand 新西兰', 'Norway 挪威', 'Japan 日本', 'Iceland 冰岛', 'Canada 加拿大']
+places = ['New Zealand 新西兰 🇳🇿', 'Norway 挪威 🇳🇴', 'Japan 日本 🇯🇵', 'Iceland 冰岛 🇮🇸', 'Canada 加拿大 🇨🇦']
 print("原始列表:", places)
 
 print("\n字母顺序:", sorted(places))
