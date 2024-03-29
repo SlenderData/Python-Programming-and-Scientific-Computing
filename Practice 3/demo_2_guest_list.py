@@ -28,5 +28,7 @@ while len(guests) > 2:
     print(f"{removed_guest}，很遗憾无法邀请您参加本次晚宴。")
 for guest in guests:
     print(f"{guest}，您依然在邀请名单中。")
+
+# 删除剩余嘉宾
 del guests[0:2]
 print(guests)
