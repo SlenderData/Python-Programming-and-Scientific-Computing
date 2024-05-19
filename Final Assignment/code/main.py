@@ -73,7 +73,7 @@ def global_internet_users_analysis():
         sns.lineplot(data=max_data, x='Year', y='max', label=column + ' max', lw=2, linestyle=(0, (5, 1)))
         sns.lineplot(data=mean_data, x='Year', y='mean', label=column + ' mean', lw=3, linestyle=(0, (1, 1)))
         plt.legend(loc='upper left', prop={'size': 8.5})
-    plt.savefig('../img/全球用户每年的各项数据的分析与可视化.png')
+    plt.savefig('./img/全球用户每年的各项数据的分析与可视化.png')
     plt.show()
 
 
@@ -98,7 +98,7 @@ def entities_2020_internet_users_percentage_pie_bar():
     plt.pie(processed_data['No. of Internet Users'], labels=processed_data.index, explode=explode_arr,
             labeldistance=1.1, autopct='%2.1f%%', pctdistance=0.9, shadow=True)
     plt.legend(loc='lower right', bbox_to_anchor=(0.5, 0., 0.95, 0.5), ncols=2)
-    plt.savefig('../img/2020年各个国家地区的互联网用户占比饼图.png')
+    plt.savefig('./img/2020年各个国家地区的互联网用户占比饼图.png')
     plt.show()
 
     # 绘制柱状图
@@ -107,7 +107,7 @@ def entities_2020_internet_users_percentage_pie_bar():
     data = pd.DataFrame({'Entity': processed_data.index, 'Percent': processed_data['No. of Internet Users']})
     plt.title('2020年各个国家地区的互联网用户占比')
     sns.barplot(data=data, x='Entity', y='Percent')
-    plt.savefig('../img/2020年各个国家地区的互联网用户占比柱状图.png')
+    plt.savefig('./img/2020年各个国家地区的互联网用户占比柱状图.png')
     plt.show()
 
 
@@ -121,7 +121,7 @@ def entities_2020_internet_users_percentage_distribution_histogram():
     plt.ylabel('国家地区数量')
     data = pd.DataFrame({'Entity': internet_users_percentage_sr.index, 'Percent': internet_users_percentage_sr.values})
     sns.histplot(data, x='Percent')
-    plt.savefig('../img/2020年各国家地区互联网用户占比分布直方图.png')
+    plt.savefig('./img/2020年各国家地区互联网用户占比分布直方图.png')
     plt.show()
 
 
@@ -141,7 +141,7 @@ def entities_2020_internet_users_percentage_distribution_scatter():
     model_1.fit(x, entity_2020_df[['Cellular Subscription']])
     data = pd.DataFrame({'x': x['Internet Users(%)'], 'pred_y': [x[0] for x in model_1.predict(x)]})
     sns.lineplot(data=data, x='x', y='pred_y')
-    plt.savefig('../img/2020年个国家地区互联网用户占比和移动互联网订阅量散点图及线性回归拟合.png')
+    plt.savefig('./img/2020年个国家地区互联网用户占比和移动互联网订阅量散点图及线性回归拟合.png')
     plt.show()
 
 
@@ -166,7 +166,7 @@ def draw_internet_users_percentage_annual_top_3_wordcloud():
     plt.title('每年互联网用户的比例最大的国家地区名词云')
     plt.imshow(wc)
     plt.axis("off")
-    wc.to_file('../img/每年互联网用户的比例最大的国家地区名词云.png')
+    wc.to_file('./img/每年互联网用户的比例最大的国家地区名词云.png')
     plt.show()
 
 
@@ -184,7 +184,7 @@ def chinese_users_analysis():
     sns.lineplot(data=chinese_users, x='Year', y='Cellular Subscription', label='移动互联网订阅每一百人比例', lw=3)
     sns.lineplot(data=chinese_users, x='Year', y='Broadband Subscription', label='宽带每一百人订阅比例', lw=3)
     plt.legend(loc='upper left')
-    plt.savefig('../img/中国互联网用户的数量（单位：千万人）、占人口的比例、移动互联网订阅每一百人比例、宽带每一百人订阅比例.png')
+    plt.savefig('./img/中国互联网用户的数量（单位：千万人）、占人口的比例、移动互联网订阅每一百人比例、宽带每一百人订阅比例.png')
     plt.show()
 
     # 绘制各项指标的增长率图
@@ -211,7 +211,7 @@ def chinese_users_analysis():
     sns.lineplot(data=chinese_users, x='Year', y='increase of Broadband Subscription', lw=4,
                  label='宽带每一百人订阅比例增长率')
     plt.legend(loc='upper left')
-    plt.savefig('../img/中国互联网用户的数量（单位：千万人）、占人口的比例、移动互联网订阅每一百人比例、宽带每一百人订阅比例的增长率.png')
+    plt.savefig('./img/中国互联网用户的数量（单位：千万人）、占人口的比例、移动互联网订阅每一百人比例、宽带每一百人订阅比例的增长率.png')
     plt.show()
 
     # 利用多元线性回归预测中国互联网到2050年的总用户数
@@ -229,7 +229,7 @@ def chinese_users_analysis():
     plt.xlabel('年份')
     plt.ylabel('人数（单位：千万人）')
     sns.lineplot(data=data, x='x', y='pred_y')
-    plt.savefig('../img/对1980到2020年中国互联网总用户数的拟合.png')
+    plt.savefig('./img/对1980到2020年中国互联网总用户数的拟合.png')
     plt.show()
 
     # 预测：
@@ -240,14 +240,14 @@ def chinese_users_analysis():
     pred_x = pd.DataFrame(np.arange(1980, 2031), columns=['Year'])
     pred_x_m = poly_reg.fit_transform(pred_x)
     plt.plot(pred_x, model_2.predict(pred_x_m))
-    plt.savefig('../img/到2030年中国互联网总用户数的预测.png')
+    plt.savefig('./img/到2030年中国互联网总用户数的预测.png')
     plt.show()
 
 
 if __name__ == '__main__':
     # 检查并创建目录
-    if not os.path.exists('../img/'):
-        os.makedirs('../img/')
+    if not os.path.exists('./img/'):
+        os.makedirs('./img/')
     # 读取文件，获取全球互联网用户信息
     global_users = pd.read_csv('Final.csv', delimiter=',', usecols=range(1, 8))  # 由于第一列的列名未知，所以不使用第一列
     # 对全球用户进行分析：
