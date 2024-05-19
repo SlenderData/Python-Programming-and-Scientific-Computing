@@ -16,8 +16,9 @@ def set_seaborn_properties(context='talk', font_scale=0.8):
         defaultFont = 'Microsoft YaHei'
     elif sys.platform == 'darwin':  # MacOS下使用黑体
         defaultFont = 'Hei'
-    else:  # Linux下使用Noto Sans CJK SC
-        defaultFont = 'Noto Sans CJK SC'
+    else:  # Linux下使用Noto Sans CJK JP
+        defaultFont = 'Noto Sans CJK JP'  # JP为日本地区的默认中文字形
+        # defaultFont = 'Noto Sans CJK SC'  SC为中国大陆的默认中文字形，但是不知为何在本人电脑无法调用 (Ubuntu 24.04)
     sns.set_theme(context=context, font=defaultFont, font_scale=font_scale,
                   rc={'axes.unicode_minus': False,
                       'figure.figsize': (12, 8),
