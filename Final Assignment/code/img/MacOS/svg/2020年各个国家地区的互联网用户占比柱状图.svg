@@ -1,0 +1,2116 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="864pt" height="576pt" viewBox="0 0 864 576" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2024-05-20T13:41:05.432619</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.9.0, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 576 
+L 864 576 
+L 864 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 108 512.64 
+L 777.6 512.64 
+L 777.6 69.12 
+L 108 69.12 
+z
+" style="fill: #eaeaf2"/>
+   </g>
+   <g id="matplotlib.axis_1">
+    <g id="xtick_1">
+     <g id="text_1">
+      <!-- China -->
+      <g style="fill: #262626" transform="translate(125.57977 531.763925) scale(0.0924 -0.0924)">
+       <defs>
+        <path id="SIL-Hei-Med-Jian-43" d="M 4378 3178 
+L 3725 3178 
+Q 3466 3853 2556 3853 
+Q 1850 3853 1453 3392 
+Q 1056 2931 1056 2109 
+Q 1056 1278 1457 809 
+Q 1859 341 2569 341 
+Q 3453 341 3741 1041 
+L 4434 1041 
+Q 4059 -163 2547 -163 
+Q 1569 -163 997 457 
+Q 425 1078 425 2134 
+Q 425 3163 1009 3761 
+Q 1594 4359 2594 4359 
+Q 3313 4359 3792 4042 
+Q 4272 3725 4378 3178 
+z
+" transform="scale(0.015625)"/>
+        <path id="SIL-Hei-Med-Jian-68" d="M 1141 4588 
+L 1141 2431 
+Q 1175 2472 1194 2491 
+Q 1684 3063 2278 3063 
+Q 3275 3063 3275 2103 
+L 3275 0 
+L 2763 0 
+L 2763 1844 
+Q 2763 2634 1984 2634 
+Q 1141 2634 1141 1806 
+L 1141 0 
+L 628 0 
+L 628 4588 
+L 1141 4588 
+z
+" transform="scale(0.015625)"/>
+        <path id="SIL-Hei-Med-Jian-69" d="M 1116 4347 
+L 1116 3706 
+L 603 3706 
+L 603 4347 
+L 1116 4347 
+z
+M 1119 2978 
+L 1119 0 
+L 606 0 
+L 606 2978 
+L 1119 2978 
+z
+" transform="scale(0.015625)"/>
+        <path id="SIL-Hei-Med-Jian-6e" d="M 1141 2978 
+L 1141 2425 
+Q 1178 2469 1197 2491 
+Q 1688 3059 2303 3059 
+Q 3281 3059 3281 1972 
+L 3281 0 
+L 2769 0 
+L 2769 1919 
+Q 2769 2628 1994 2628 
+Q 1613 2628 1377 2417 
+Q 1141 2206 1141 1866 
+L 1141 0 
+L 628 0 
+L 628 2978 
+L 1141 2978 
+z
+" transform="scale(0.015625)"/>
+        <path id="SIL-Hei-Med-Jian-61" d="M 3003 0 
+L 2541 0 
+Q 2463 178 2409 394 
+Q 2406 413 2397 447 
+Q 2334 381 2303 350 
+Q 1891 -81 1328 -81 
+Q 906 -81 650 156 
+Q 394 394 394 791 
+Q 394 1794 1941 1794 
+L 2375 1791 
+L 2375 2063 
+Q 2375 2725 1731 2725 
+Q 1184 2725 1081 2334 
+L 1069 2281 
+L 534 2281 
+L 541 2316 
+Q 675 3081 1728 3081 
+Q 2850 3081 2850 2131 
+L 2850 725 
+Q 2850 347 3003 0 
+z
+M 2375 1478 
+L 2006 1484 
+Q 913 1484 913 844 
+Q 913 313 1541 313 
+Q 2372 313 2372 1228 
+L 2375 1478 
+z
+" transform="scale(0.015625)"/>
+       </defs>
+       <use xlink:href="#SIL-Hei-Med-Jian-43"/>
+       <use xlink:href="#SIL-Hei-Med-Jian-68" x="75.195312"/>
+       <use xlink:href="#SIL-Hei-Med-Jian-69" x="135.742188"/>
+       <use xlink:href="#SIL-Hei-Med-Jian-6e" x="162.890625"/>
+       <use xlink:href="#SIL-Hei-Med-Jian-61" x="223.486328"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_2">
+     <g id="text_2">
+      <!-- India -->
+      <g style="fill: #262626" transform="translate(188.469416 531.763925) scale(0.0924 -0.0924)">
+       <defs>
+        <path id="SIL-Hei-Med-Jian-49" d="M 1275 4266 
+L 1275 0 
+L 713 0 
+L 713 4266 
+L 1275 4266 
+z
+" transform="scale(0.015625)"/>
+        <path id="SIL-Hei-Med-Jian-64" d="M 3303 4588 
+L 3303 0 
+L 2791 0 
+L 2791 503 
+Q 2753 463 2734 444 
+Q 2250 -94 1678 -94 
+Q 1088 -94 736 320 
+Q 384 734 384 1434 
+Q 384 2191 762 2637 
+Q 1141 3084 1778 3084 
+Q 2375 3084 2741 2528 
+Q 2756 2503 2791 2453 
+L 2791 4588 
+L 3303 4588 
+z
+M 2803 1494 
+Q 2803 2694 1869 2694 
+Q 909 2694 909 1478 
+Q 909 300 1853 300 
+Q 2300 300 2551 617 
+Q 2803 934 2803 1494 
+z
+" transform="scale(0.015625)"/>
+       </defs>
+       <use xlink:href="#SIL-Hei-Med-Jian-49"/>
+       <use xlink:href="#SIL-Hei-Med-Jian-6e" x="31.298828"/>
+       <use xlink:href="#SIL-Hei-Med-Jian-64" x="91.894531"/>
+       <use xlink:href="#SIL-Hei-Med-Jian-69" x="152.685547"/>
+       <use xlink:href="#SIL-Hei-Med-Jian-61" x="179.833984"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_3">
+     <g id="text_3">
+      <!-- North America -->
+      <g style="fill: #262626" transform="translate(228.032393 531.763925) scale(0.0924 -0.0924)">
+       <defs>
+        <path id="SIL-Hei-Med-Jian-4e" d="M 4391 4266 
+L 4391 0 
+L 3653 0 
+L 1238 3509 
+L 1238 0 
+L 675 0 
+L 675 4266 
+L 1419 4266 
+L 3828 747 
+L 3828 4266 
+L 4391 4266 
+z
+" transform="scale(0.015625)"/>
+        <path id="SIL-Hei-Med-Jian-6f" d="M 3369 1472 
+Q 3369 741 2958 306 
+Q 2547 -128 1853 -128 
+Q 1175 -128 776 301 
+Q 378 731 378 1463 
+Q 378 2219 783 2651 
+Q 1188 3084 1891 3084 
+Q 2581 3084 2975 2656 
+Q 3369 2228 3369 1472 
+z
+M 2847 1456 
+Q 2847 2694 1881 2694 
+Q 900 2694 900 1478 
+Q 900 266 1878 266 
+Q 2847 266 2847 1456 
+z
+" transform="scale(0.015625)"/>
+        <path id="SIL-Hei-Med-Jian-72" d="M 1091 2978 
+L 1091 2238 
+Q 1128 2291 1147 2316 
+Q 1666 3059 2231 3059 
+L 2297 3059 
+L 2297 2428 
+Q 2194 2438 2125 2438 
+Q 1638 2438 1364 2169 
+Q 1091 1900 1091 1422 
+L 1091 0 
+L 578 0 
+L 578 2978 
+L 1091 2978 
+z
+" transform="scale(0.015625)"/>
+        <path id="SIL-Hei-Med-Jian-74" d="M 1263 3766 
+L 1263 2928 
+L 1863 2922 
+L 1863 2528 
+L 1263 2541 
+L 1263 903 
+Q 1263 400 1797 400 
+L 1881 403 
+L 1881 -6 
+Q 1694 -59 1516 -59 
+Q 772 -59 772 831 
+L 772 2531 
+L 259 2528 
+L 259 2928 
+L 772 2919 
+L 772 3769 
+L 1263 3766 
+z
+" transform="scale(0.015625)"/>
+        <path id="SIL-Hei-Med-Jian-20" transform="scale(0.015625)"/>
+        <path id="SIL-Hei-Med-Jian-41" d="M 2631 4275 
+L 4253 0 
+L 3634 0 
+L 3225 1131 
+L 1319 1131 
+L 906 0 
+L 288 0 
+L 1913 4275 
+L 2631 4275 
+z
+M 3041 1616 
+L 2272 3856 
+L 1497 1616 
+L 3041 1616 
+z
+" transform="scale(0.015625)"/>
+        <path id="SIL-Hei-Med-Jian-6d" d="M 1109 2978 
+L 1109 2475 
+Q 1147 2519 1163 2541 
+Q 1584 3056 2178 3056 
+Q 2803 3056 3088 2456 
+Q 3428 3059 4159 3059 
+Q 5178 3059 5178 2016 
+L 5178 0 
+L 4669 0 
+L 4669 1947 
+Q 4669 2631 3931 2631 
+Q 3141 2631 3141 1866 
+L 3141 0 
+L 2628 0 
+L 2628 1934 
+Q 2628 2628 1894 2628 
+Q 1109 2628 1109 1853 
+L 1109 0 
+L 597 0 
+L 597 2978 
+L 1109 2978 
+z
+" transform="scale(0.015625)"/>
+        <path id="SIL-Hei-Med-Jian-65" d="M 3219 1434 
+L 944 1434 
+L 944 1344 
+Q 944 259 1819 259 
+Q 2400 259 2572 675 
+L 2594 728 
+L 3128 728 
+L 3119 700 
+Q 3019 328 2661 98 
+Q 2303 -131 1831 -131 
+Q 1163 -131 781 287 
+Q 400 706 400 1441 
+Q 400 2216 776 2650 
+Q 1153 3084 1825 3084 
+Q 2484 3084 2851 2671 
+Q 3219 2259 3219 1516 
+L 3219 1434 
+z
+M 2663 1791 
+L 2656 1891 
+Q 2609 2725 1834 2725 
+Q 1116 2725 959 1791 
+L 2663 1791 
+z
+" transform="scale(0.015625)"/>
+        <path id="SIL-Hei-Med-Jian-63" d="M 2981 2184 
+L 2422 2184 
+L 2413 2225 
+Q 2281 2694 1728 2694 
+Q 881 2694 881 1494 
+Q 881 266 1753 266 
+Q 2359 266 2491 744 
+L 2500 772 
+L 3031 772 
+Q 2825 -128 1759 -128 
+Q 359 -128 359 1481 
+Q 359 2244 728 2664 
+Q 1097 3084 1766 3084 
+Q 2800 3084 2981 2184 
+z
+" transform="scale(0.015625)"/>
+       </defs>
+       <use xlink:href="#SIL-Hei-Med-Jian-4e"/>
+       <use xlink:href="#SIL-Hei-Med-Jian-6f" x="79.345703"/>
+       <use xlink:href="#SIL-Hei-Med-Jian-72" x="137.792969"/>
+       <use xlink:href="#SIL-Hei-Med-Jian-74" x="177.490234"/>
+       <use xlink:href="#SIL-Hei-Med-Jian-68" x="210.888672"/>
+       <use xlink:href="#SIL-Hei-Med-Jian-20" x="271.435547"/>
+       <use xlink:href="#SIL-Hei-Med-Jian-41" x="304.785156"/>
+       <use xlink:href="#SIL-Hei-Med-Jian-6d" x="375.78125"/>
+       <use xlink:href="#SIL-Hei-Med-Jian-65" x="465.625"/>
+       <use xlink:href="#SIL-Hei-Med-Jian-72" x="522.021484"/>
+       <use xlink:href="#SIL-Hei-Med-Jian-69" x="561.71875"/>
+       <use xlink:href="#SIL-Hei-Med-Jian-63" x="588.867188"/>
+       <use xlink:href="#SIL-Hei-Med-Jian-61" x="641.064453"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_4">
+     <g id="text_4">
+      <!-- United States -->
+      <g style="fill: #262626" transform="translate(291.497374 531.763925) scale(0.0924 -0.0924)">
+       <defs>
+        <path id="SIL-Hei-Med-Jian-55" d="M 4353 4266 
+L 4353 1616 
+Q 4353 -153 2509 -153 
+Q 1591 -153 1155 275 
+Q 719 703 719 1606 
+L 719 4266 
+L 1281 4266 
+L 1281 1688 
+Q 1281 397 2541 397 
+Q 3213 397 3502 725 
+Q 3791 1053 3791 1816 
+L 3791 4266 
+L 4353 4266 
+z
+" transform="scale(0.015625)"/>
+        <path id="SIL-Hei-Med-Jian-53" d="M 3466 3256 
+L 2863 3256 
+Q 2744 3891 2038 3891 
+Q 1675 3891 1450 3714 
+Q 1225 3538 1225 3253 
+Q 1225 2859 1931 2559 
+L 2531 2306 
+Q 3097 2066 3319 1805 
+Q 3541 1544 3541 1119 
+Q 3541 522 3117 181 
+Q 2694 -159 1950 -159 
+Q 603 -159 419 1006 
+L 1069 1006 
+L 1078 953 
+Q 1203 344 1988 344 
+Q 2391 344 2648 536 
+Q 2906 728 2906 1031 
+Q 2906 1450 2200 1747 
+L 1663 1972 
+Q 1072 2222 833 2494 
+Q 594 2766 594 3194 
+Q 594 4366 2019 4366 
+Q 3309 4366 3463 3291 
+L 3466 3256 
+z
+" transform="scale(0.015625)"/>
+        <path id="SIL-Hei-Med-Jian-73" d="M 2688 2263 
+L 2163 2263 
+L 2153 2303 
+Q 2063 2725 1556 2725 
+Q 959 2725 959 2281 
+Q 959 2100 1098 1997 
+Q 1238 1894 1694 1741 
+L 2056 1619 
+Q 2725 1394 2725 819 
+Q 2725 -128 1516 -128 
+Q 503 -128 344 703 
+L 894 703 
+Q 1013 266 1547 266 
+Q 1831 266 2018 400 
+Q 2206 534 2206 738 
+Q 2206 1025 1622 1222 
+L 1159 1378 
+Q 438 1622 438 2206 
+Q 438 2609 742 2848 
+Q 1047 3088 1566 3088 
+Q 2556 3088 2684 2284 
+L 2688 2263 
+z
+" transform="scale(0.015625)"/>
+       </defs>
+       <use xlink:href="#SIL-Hei-Med-Jian-55"/>
+       <use xlink:href="#SIL-Hei-Med-Jian-6e" x="79.345703"/>
+       <use xlink:href="#SIL-Hei-Med-Jian-69" x="139.941406"/>
+       <use xlink:href="#SIL-Hei-Med-Jian-74" x="167.089844"/>
+       <use xlink:href="#SIL-Hei-Med-Jian-65" x="200.488281"/>
+       <use xlink:href="#SIL-Hei-Med-Jian-64" x="256.884766"/>
+       <use xlink:href="#SIL-Hei-Med-Jian-20" x="317.675781"/>
+       <use xlink:href="#SIL-Hei-Med-Jian-53" x="351.025391"/>
+       <use xlink:href="#SIL-Hei-Med-Jian-74" x="413.720703"/>
+       <use xlink:href="#SIL-Hei-Med-Jian-61" x="447.119141"/>
+       <use xlink:href="#SIL-Hei-Med-Jian-74" x="501.904297"/>
+       <use xlink:href="#SIL-Hei-Med-Jian-65" x="535.302734"/>
+       <use xlink:href="#SIL-Hei-Med-Jian-73" x="591.699219"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_5">
+     <g id="text_5">
+      <!-- Brazil -->
+      <g style="fill: #262626" transform="translate(370.035826 531.763925) scale(0.0924 -0.0924)">
+       <defs>
+        <path id="SIL-Hei-Med-Jian-42" d="M 709 4266 
+L 2009 4266 
+Q 3384 4266 3384 3228 
+Q 3384 2481 2659 2247 
+L 2591 2225 
+L 2672 2213 
+Q 3616 2081 3616 1172 
+Q 3616 0 2247 0 
+L 709 0 
+L 709 4266 
+z
+M 1272 3738 
+L 1272 2447 
+L 1953 2444 
+Q 2838 2444 2838 3097 
+Q 2838 3738 1888 3738 
+L 1272 3738 
+z
+M 1272 1959 
+L 1272 531 
+L 2084 528 
+Q 3009 528 3009 1231 
+Q 3009 1956 1938 1956 
+L 1272 1959 
+z
+" transform="scale(0.015625)"/>
+        <path id="SIL-Hei-Med-Jian-7a" d="M 2581 2978 
+L 2581 2469 
+L 838 444 
+L 2638 444 
+L 2638 0 
+L 291 0 
+L 291 509 
+L 2025 2534 
+L 359 2534 
+L 359 2978 
+L 2581 2978 
+z
+" transform="scale(0.015625)"/>
+        <path id="SIL-Hei-Med-Jian-6c" d="M 1119 4588 
+L 1119 0 
+L 606 0 
+L 606 4588 
+L 1119 4588 
+z
+" transform="scale(0.015625)"/>
+       </defs>
+       <use xlink:href="#SIL-Hei-Med-Jian-42"/>
+       <use xlink:href="#SIL-Hei-Med-Jian-72" x="62.646484"/>
+       <use xlink:href="#SIL-Hei-Med-Jian-61" x="102.34375"/>
+       <use xlink:href="#SIL-Hei-Med-Jian-7a" x="157.128906"/>
+       <use xlink:href="#SIL-Hei-Med-Jian-69" x="203.076172"/>
+       <use xlink:href="#SIL-Hei-Med-Jian-6c" x="230.224609"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_6">
+     <g id="text_6">
+      <!-- Indonesia -->
+      <g style="fill: #262626" transform="translate(421.635347 531.763925) scale(0.0924 -0.0924)">
+       <use xlink:href="#SIL-Hei-Med-Jian-49"/>
+       <use xlink:href="#SIL-Hei-Med-Jian-6e" x="31.298828"/>
+       <use xlink:href="#SIL-Hei-Med-Jian-64" x="91.894531"/>
+       <use xlink:href="#SIL-Hei-Med-Jian-6f" x="152.685547"/>
+       <use xlink:href="#SIL-Hei-Med-Jian-6e" x="211.132812"/>
+       <use xlink:href="#SIL-Hei-Med-Jian-65" x="271.728516"/>
+       <use xlink:href="#SIL-Hei-Med-Jian-73" x="328.125"/>
+       <use xlink:href="#SIL-Hei-Med-Jian-69" x="376.171875"/>
+       <use xlink:href="#SIL-Hei-Med-Jian-61" x="403.320312"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_7">
+     <g id="text_7">
+      <!-- Russia -->
+      <g style="fill: #262626" transform="translate(489.753534 531.763925) scale(0.0924 -0.0924)">
+       <defs>
+        <path id="SIL-Hei-Med-Jian-52" d="M 734 4266 
+L 1944 4266 
+Q 3491 4266 3491 3191 
+Q 3491 2269 2609 2091 
+L 2534 2075 
+L 2606 2056 
+Q 3069 1947 3214 1772 
+Q 3359 1597 3572 900 
+L 3747 319 
+Q 3788 175 3850 0 
+L 3253 0 
+Q 3203 147 3169 263 
+L 2984 894 
+Q 2831 1431 2568 1636 
+Q 2306 1841 1778 1841 
+L 1297 1844 
+L 1297 0 
+L 734 0 
+L 734 4266 
+z
+M 1297 3741 
+L 1297 2328 
+L 1906 2328 
+Q 2919 2328 2919 3034 
+Q 2919 3738 1828 3738 
+L 1297 3741 
+z
+" transform="scale(0.015625)"/>
+        <path id="SIL-Hei-Med-Jian-75" d="M 3169 2978 
+L 3169 0 
+L 2656 0 
+L 2656 544 
+Q 2622 500 2603 478 
+Q 2141 -103 1525 -103 
+Q 550 -103 550 1091 
+L 550 2978 
+L 1063 2978 
+L 1063 1241 
+Q 1063 359 1797 359 
+Q 2656 359 2656 1259 
+L 2656 2978 
+L 3169 2978 
+z
+" transform="scale(0.015625)"/>
+       </defs>
+       <use xlink:href="#SIL-Hei-Med-Jian-52"/>
+       <use xlink:href="#SIL-Hei-Med-Jian-75" x="64.746094"/>
+       <use xlink:href="#SIL-Hei-Med-Jian-73" x="123.242188"/>
+       <use xlink:href="#SIL-Hei-Med-Jian-73" x="171.289062"/>
+       <use xlink:href="#SIL-Hei-Med-Jian-69" x="219.335938"/>
+       <use xlink:href="#SIL-Hei-Med-Jian-61" x="246.484375"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_8">
+     <g id="text_8">
+      <!-- Japan -->
+      <g style="fill: #262626" transform="translate(552.32772 531.763925) scale(0.0924 -0.0924)">
+       <defs>
+        <path id="SIL-Hei-Med-Jian-4a" d="M 1475 4266 
+L 1475 450 
+Q 1475 -1025 416 -1025 
+Q 325 -1025 225 -1013 
+L 225 -481 
+L 256 -481 
+Q 913 -481 913 594 
+L 913 4266 
+L 1475 4266 
+z
+" transform="scale(0.015625)"/>
+        <path id="SIL-Hei-Med-Jian-70" d="M 1100 2978 
+L 1100 2475 
+Q 1138 2519 1153 2541 
+Q 1600 3081 2206 3081 
+Q 2816 3081 3166 2673 
+Q 3516 2266 3516 1553 
+Q 3516 816 3130 362 
+Q 2744 -91 2119 -91 
+Q 1544 -91 1150 453 
+Q 1134 478 1100 522 
+L 1100 -1025 
+L 588 -1025 
+L 588 2978 
+L 1100 2978 
+z
+M 2994 1506 
+Q 2994 2688 2044 2688 
+Q 1091 2688 1091 1488 
+Q 1091 303 2022 303 
+Q 2478 303 2736 622 
+Q 2994 941 2994 1506 
+z
+" transform="scale(0.015625)"/>
+       </defs>
+       <use xlink:href="#SIL-Hei-Med-Jian-4a"/>
+       <use xlink:href="#SIL-Hei-Med-Jian-61" x="33.447266"/>
+       <use xlink:href="#SIL-Hei-Med-Jian-70" x="88.232422"/>
+       <use xlink:href="#SIL-Hei-Med-Jian-61" x="149.072266"/>
+       <use xlink:href="#SIL-Hei-Med-Jian-6e" x="203.857422"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_9">
+     <g id="text_9">
+      <!-- Mexico -->
+      <g style="fill: #262626" transform="translate(609.402663 531.763925) scale(0.0924 -0.0924)">
+       <defs>
+        <path id="SIL-Hei-Med-Jian-4d" d="M 5438 4266 
+L 5819 0 
+L 5241 0 
+L 4978 3653 
+L 3519 0 
+L 2897 0 
+L 1438 3653 
+L 1175 0 
+L 597 0 
+L 978 4266 
+L 1766 4266 
+L 3206 622 
+L 4650 4266 
+L 5438 4266 
+z
+" transform="scale(0.015625)"/>
+        <path id="SIL-Hei-Med-Jian-78" d="M 2994 2978 
+L 2044 1559 
+L 3053 0 
+L 2434 0 
+L 1672 1259 
+L 906 0 
+L 291 0 
+L 1300 1559 
+L 350 2978 
+L 981 2978 
+L 1672 1828 
+L 2363 2978 
+L 2994 2978 
+z
+" transform="scale(0.015625)"/>
+       </defs>
+       <use xlink:href="#SIL-Hei-Med-Jian-4d"/>
+       <use xlink:href="#SIL-Hei-Med-Jian-65" x="100.244141"/>
+       <use xlink:href="#SIL-Hei-Med-Jian-78" x="156.640625"/>
+       <use xlink:href="#SIL-Hei-Med-Jian-69" x="208.837891"/>
+       <use xlink:href="#SIL-Hei-Med-Jian-63" x="235.986328"/>
+       <use xlink:href="#SIL-Hei-Med-Jian-6f" x="288.183594"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_10">
+     <g id="text_10">
+      <!-- Egypt -->
+      <g style="fill: #262626" transform="translate(674.124428 531.763925) scale(0.0924 -0.0924)">
+       <defs>
+        <path id="SIL-Hei-Med-Jian-45" d="M 3053 4266 
+L 3053 3738 
+L 1259 3738 
+L 1259 2472 
+L 3013 2472 
+L 3013 1941 
+L 1259 1941 
+L 1259 550 
+L 3103 550 
+L 3103 0 
+L 697 0 
+L 697 4266 
+L 3053 4266 
+z
+" transform="scale(0.015625)"/>
+        <path id="SIL-Hei-Med-Jian-67" d="M 3219 2978 
+L 3219 772 
+Q 3219 -241 2912 -633 
+Q 2606 -1025 1816 -1025 
+Q 709 -1025 534 -225 
+L 1081 -225 
+Q 1219 -681 1844 -681 
+Q 2331 -681 2547 -401 
+Q 2763 -122 2763 513 
+L 2763 616 
+Q 2728 569 2713 544 
+Q 2328 0 1769 0 
+Q 1131 0 773 392 
+Q 416 784 416 1475 
+Q 416 2191 802 2630 
+Q 1188 3069 1813 3069 
+Q 2366 3069 2709 2541 
+Q 2728 2516 2763 2463 
+L 2763 2978 
+L 3219 2978 
+z
+M 2738 1497 
+Q 2738 2675 1856 2675 
+Q 1419 2675 1167 2365 
+Q 916 2056 916 1516 
+Q 916 391 1806 391 
+Q 2738 391 2738 1497 
+z
+" transform="scale(0.015625)"/>
+        <path id="SIL-Hei-Med-Jian-79" d="M 3075 2978 
+L 1588 -1025 
+L 1056 -1025 
+L 1403 -91 
+L 263 2978 
+L 841 2978 
+L 1663 438 
+L 2491 2978 
+L 3075 2978 
+z
+" transform="scale(0.015625)"/>
+       </defs>
+       <use xlink:href="#SIL-Hei-Med-Jian-45"/>
+       <use xlink:href="#SIL-Hei-Med-Jian-67" x="56.347656"/>
+       <use xlink:href="#SIL-Hei-Med-Jian-79" x="116.894531"/>
+       <use xlink:href="#SIL-Hei-Med-Jian-70" x="169.091797"/>
+       <use xlink:href="#SIL-Hei-Med-Jian-74" x="229.931641"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_11">
+     <g id="text_11">
+      <!-- Other -->
+      <g style="fill: #262626" transform="translate(734.618171 531.763925) scale(0.0924 -0.0924)">
+       <defs>
+        <path id="SIL-Hei-Med-Jian-4f" d="M 4747 2122 
+Q 4747 1081 4150 459 
+Q 3553 -163 2553 -163 
+Q 1603 -163 1036 440 
+Q 469 1044 469 2056 
+Q 469 3100 1069 3734 
+Q 1669 4369 2656 4369 
+Q 3613 4369 4180 3759 
+Q 4747 3150 4747 2122 
+z
+M 4116 2097 
+Q 4116 3866 2625 3866 
+Q 1909 3866 1504 3397 
+Q 1100 2928 1100 2097 
+Q 1100 1259 1490 800 
+Q 1881 341 2594 341 
+Q 3316 341 3716 803 
+Q 4116 1266 4116 2097 
+z
+" transform="scale(0.015625)"/>
+       </defs>
+       <use xlink:href="#SIL-Hei-Med-Jian-4f"/>
+       <use xlink:href="#SIL-Hei-Med-Jian-74" x="81.494141"/>
+       <use xlink:href="#SIL-Hei-Med-Jian-68" x="114.892578"/>
+       <use xlink:href="#SIL-Hei-Med-Jian-65" x="175.439453"/>
+       <use xlink:href="#SIL-Hei-Med-Jian-72" x="231.835938"/>
+      </g>
+     </g>
+    </g>
+    <g id="text_12">
+     <!-- Entity -->
+     <g style="fill: #262626" transform="translate(429.539288 544.469869) scale(0.1008 -0.1008)">
+      <use xlink:href="#SIL-Hei-Med-Jian-45"/>
+      <use xlink:href="#SIL-Hei-Med-Jian-6e" x="56.347656"/>
+      <use xlink:href="#SIL-Hei-Med-Jian-74" x="116.943359"/>
+      <use xlink:href="#SIL-Hei-Med-Jian-69" x="150.341797"/>
+      <use xlink:href="#SIL-Hei-Med-Jian-74" x="177.490234"/>
+      <use xlink:href="#SIL-Hei-Med-Jian-79" x="210.888672"/>
+     </g>
+    </g>
+   </g>
+   <g id="matplotlib.axis_2">
+    <g id="ytick_1">
+     <g id="line2d_1">
+      <path d="M 108 512.64 
+L 777.6 512.64 
+" clip-path="url(#p1b16b2d21c)" style="fill: none; stroke: #ffffff; stroke-width: 1.5; stroke-linecap: round"/>
+     </g>
+     <g id="text_13">
+      <!-- 0.00 -->
+      <g style="fill: #262626" transform="translate(78.53305 515.951963) scale(0.0924 -0.0924)">
+       <defs>
+        <path id="SIL-Hei-Med-Jian-30" d="M 3169 2113 
+Q 3169 -116 1713 -116 
+Q 294 -116 294 2094 
+Q 294 4309 1728 4309 
+Q 3169 4309 3169 2113 
+z
+M 2563 2144 
+Q 2563 3078 2380 3454 
+Q 2197 3831 1741 3831 
+Q 1275 3831 1087 3412 
+Q 900 2994 900 1959 
+Q 900 1106 1092 734 
+Q 1284 363 1725 363 
+Q 2178 363 2370 773 
+Q 2563 1184 2563 2144 
+z
+" transform="scale(0.015625)"/>
+        <path id="SIL-Hei-Med-Jian-2e" d="M 972 784 
+L 972 0 
+L 388 0 
+L 388 784 
+L 972 784 
+z
+" transform="scale(0.015625)"/>
+       </defs>
+       <use xlink:href="#SIL-Hei-Med-Jian-30"/>
+       <use xlink:href="#SIL-Hei-Med-Jian-2e" x="54.101562"/>
+       <use xlink:href="#SIL-Hei-Med-Jian-30" x="75.390625"/>
+       <use xlink:href="#SIL-Hei-Med-Jian-30" x="129.492188"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_2">
+     <g id="line2d_2">
+      <path d="M 108 455.498145 
+L 777.6 455.498145 
+" clip-path="url(#p1b16b2d21c)" style="fill: none; stroke: #ffffff; stroke-width: 1.5; stroke-linecap: round"/>
+     </g>
+     <g id="text_14">
+      <!-- 0.05 -->
+      <g style="fill: #262626" transform="translate(78.53305 458.810108) scale(0.0924 -0.0924)">
+       <defs>
+        <path id="SIL-Hei-Med-Jian-35" d="M 2891 4228 
+L 2891 3713 
+L 1222 3713 
+L 1059 2384 
+Q 1491 2744 1931 2744 
+Q 2469 2744 2772 2384 
+Q 3075 2025 3075 1388 
+Q 3075 -119 1641 -119 
+Q 591 -119 406 750 
+L 397 797 
+L 994 797 
+L 1009 759 
+Q 1163 319 1675 319 
+Q 2472 319 2472 1297 
+Q 2472 2266 1703 2266 
+Q 1303 2266 1131 2013 
+L 1106 1978 
+L 531 1975 
+L 778 4228 
+L 2891 4228 
+z
+" transform="scale(0.015625)"/>
+       </defs>
+       <use xlink:href="#SIL-Hei-Med-Jian-30"/>
+       <use xlink:href="#SIL-Hei-Med-Jian-2e" x="54.101562"/>
+       <use xlink:href="#SIL-Hei-Med-Jian-30" x="75.390625"/>
+       <use xlink:href="#SIL-Hei-Med-Jian-35" x="129.492188"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_3">
+     <g id="line2d_3">
+      <path d="M 108 398.35629 
+L 777.6 398.35629 
+" clip-path="url(#p1b16b2d21c)" style="fill: none; stroke: #ffffff; stroke-width: 1.5; stroke-linecap: round"/>
+     </g>
+     <g id="text_15">
+      <!-- 0.10 -->
+      <g style="fill: #262626" transform="translate(78.53305 401.668253) scale(0.0924 -0.0924)">
+       <defs>
+        <path id="SIL-Hei-Med-Jian-31" d="M 2469 4250 
+L 2469 0 
+L 1931 0 
+L 1931 3678 
+Q 1641 3372 800 2941 
+L 800 3575 
+Q 1384 3888 1878 4250 
+L 2469 4250 
+z
+" transform="scale(0.015625)"/>
+       </defs>
+       <use xlink:href="#SIL-Hei-Med-Jian-30"/>
+       <use xlink:href="#SIL-Hei-Med-Jian-2e" x="54.101562"/>
+       <use xlink:href="#SIL-Hei-Med-Jian-31" x="75.390625"/>
+       <use xlink:href="#SIL-Hei-Med-Jian-30" x="129.492188"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_4">
+     <g id="line2d_4">
+      <path d="M 108 341.214435 
+L 777.6 341.214435 
+" clip-path="url(#p1b16b2d21c)" style="fill: none; stroke: #ffffff; stroke-width: 1.5; stroke-linecap: round"/>
+     </g>
+     <g id="text_16">
+      <!-- 0.15 -->
+      <g style="fill: #262626" transform="translate(78.53305 344.526398) scale(0.0924 -0.0924)">
+       <use xlink:href="#SIL-Hei-Med-Jian-30"/>
+       <use xlink:href="#SIL-Hei-Med-Jian-2e" x="54.101562"/>
+       <use xlink:href="#SIL-Hei-Med-Jian-31" x="75.390625"/>
+       <use xlink:href="#SIL-Hei-Med-Jian-35" x="129.492188"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_5">
+     <g id="line2d_5">
+      <path d="M 108 284.072581 
+L 777.6 284.072581 
+" clip-path="url(#p1b16b2d21c)" style="fill: none; stroke: #ffffff; stroke-width: 1.5; stroke-linecap: round"/>
+     </g>
+     <g id="text_17">
+      <!-- 0.20 -->
+      <g style="fill: #262626" transform="translate(78.53305 287.384543) scale(0.0924 -0.0924)">
+       <defs>
+        <path id="SIL-Hei-Med-Jian-32" d="M 3075 516 
+L 3075 0 
+L 378 0 
+L 378 591 
+L 513 694 
+Q 2456 2175 2456 3116 
+Q 2456 3434 2256 3632 
+Q 2056 3831 1738 3831 
+Q 1181 3831 1016 3338 
+L 431 3338 
+L 456 3428 
+Q 684 4309 1769 4309 
+Q 2369 4309 2716 4003 
+Q 3063 3697 3063 3169 
+Q 3063 2569 2570 1853 
+Q 2078 1138 1356 691 
+L 1078 516 
+L 3075 516 
+z
+" transform="scale(0.015625)"/>
+       </defs>
+       <use xlink:href="#SIL-Hei-Med-Jian-30"/>
+       <use xlink:href="#SIL-Hei-Med-Jian-2e" x="54.101562"/>
+       <use xlink:href="#SIL-Hei-Med-Jian-32" x="75.390625"/>
+       <use xlink:href="#SIL-Hei-Med-Jian-30" x="129.492188"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_6">
+     <g id="line2d_6">
+      <path d="M 108 226.930726 
+L 777.6 226.930726 
+" clip-path="url(#p1b16b2d21c)" style="fill: none; stroke: #ffffff; stroke-width: 1.5; stroke-linecap: round"/>
+     </g>
+     <g id="text_18">
+      <!-- 0.25 -->
+      <g style="fill: #262626" transform="translate(78.53305 230.242688) scale(0.0924 -0.0924)">
+       <use xlink:href="#SIL-Hei-Med-Jian-30"/>
+       <use xlink:href="#SIL-Hei-Med-Jian-2e" x="54.101562"/>
+       <use xlink:href="#SIL-Hei-Med-Jian-32" x="75.390625"/>
+       <use xlink:href="#SIL-Hei-Med-Jian-35" x="129.492188"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_7">
+     <g id="line2d_7">
+      <path d="M 108 169.788871 
+L 777.6 169.788871 
+" clip-path="url(#p1b16b2d21c)" style="fill: none; stroke: #ffffff; stroke-width: 1.5; stroke-linecap: round"/>
+     </g>
+     <g id="text_19">
+      <!-- 0.30 -->
+      <g style="fill: #262626" transform="translate(78.53305 173.100833) scale(0.0924 -0.0924)">
+       <defs>
+        <path id="SIL-Hei-Med-Jian-33" d="M 1050 3372 
+L 453 3372 
+L 463 3422 
+Q 531 3825 873 4064 
+Q 1216 4303 1725 4303 
+Q 2966 4303 2966 3259 
+Q 2966 2559 2259 2278 
+L 2194 2253 
+L 2269 2231 
+Q 3072 2025 3072 1172 
+Q 3072 569 2694 226 
+Q 2316 -116 1653 -116 
+Q 647 -116 375 794 
+L 975 794 
+L 991 744 
+Q 1131 325 1688 325 
+Q 2463 325 2463 1138 
+Q 2463 1938 1503 1938 
+L 1456 1938 
+L 1456 2441 
+L 1516 2444 
+Q 2356 2513 2356 3225 
+Q 2356 3866 1706 3866 
+Q 1172 3866 1050 3372 
+z
+" transform="scale(0.015625)"/>
+       </defs>
+       <use xlink:href="#SIL-Hei-Med-Jian-30"/>
+       <use xlink:href="#SIL-Hei-Med-Jian-2e" x="54.101562"/>
+       <use xlink:href="#SIL-Hei-Med-Jian-33" x="75.390625"/>
+       <use xlink:href="#SIL-Hei-Med-Jian-30" x="129.492188"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_8">
+     <g id="line2d_8">
+      <path d="M 108 112.647016 
+L 777.6 112.647016 
+" clip-path="url(#p1b16b2d21c)" style="fill: none; stroke: #ffffff; stroke-width: 1.5; stroke-linecap: round"/>
+     </g>
+     <g id="text_20">
+      <!-- 0.35 -->
+      <g style="fill: #262626" transform="translate(78.53305 115.958979) scale(0.0924 -0.0924)">
+       <use xlink:href="#SIL-Hei-Med-Jian-30"/>
+       <use xlink:href="#SIL-Hei-Med-Jian-2e" x="54.101562"/>
+       <use xlink:href="#SIL-Hei-Med-Jian-33" x="75.390625"/>
+       <use xlink:href="#SIL-Hei-Med-Jian-35" x="129.492188"/>
+      </g>
+     </g>
+    </g>
+    <g id="text_21">
+     <!-- Percent -->
+     <g style="fill: #262626" transform="translate(72.918675 308.985412) rotate(-90) scale(0.1008 -0.1008)">
+      <defs>
+       <path id="SIL-Hei-Med-Jian-50" d="M 719 4266 
+L 1753 4266 
+Q 2688 4266 3109 3952 
+Q 3531 3638 3531 2941 
+Q 3531 1603 1903 1603 
+L 1281 1606 
+L 1281 0 
+L 719 0 
+L 719 4266 
+z
+M 1281 3738 
+L 1281 2131 
+L 1859 2134 
+Q 2950 2134 2950 2925 
+Q 2950 3738 1894 3738 
+L 1281 3738 
+z
+" transform="scale(0.015625)"/>
+      </defs>
+      <use xlink:href="#SIL-Hei-Med-Jian-50"/>
+      <use xlink:href="#SIL-Hei-Med-Jian-65" x="60.546875"/>
+      <use xlink:href="#SIL-Hei-Med-Jian-72" x="116.943359"/>
+      <use xlink:href="#SIL-Hei-Med-Jian-63" x="156.640625"/>
+      <use xlink:href="#SIL-Hei-Med-Jian-65" x="208.837891"/>
+      <use xlink:href="#SIL-Hei-Med-Jian-6e" x="265.234375"/>
+      <use xlink:href="#SIL-Hei-Med-Jian-74" x="325.830078"/>
+     </g>
+    </g>
+   </g>
+   <g id="patch_3">
+    <path d="M 114.087273 512.64 
+L 162.785455 512.64 
+L 162.785455 280.50968 
+L 114.087273 280.50968 
+z
+" clip-path="url(#p1b16b2d21c)" style="fill: #5875a4; stroke: #ffffff; stroke-width: 1.5; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 174.96 512.64 
+L 223.658182 512.64 
+L 223.658182 373.705358 
+L 174.96 373.705358 
+z
+" clip-path="url(#p1b16b2d21c)" style="fill: #5875a4; stroke: #ffffff; stroke-width: 1.5; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 235.832727 512.64 
+L 284.530909 512.64 
+L 284.530909 401.496475 
+L 235.832727 401.496475 
+z
+" clip-path="url(#p1b16b2d21c)" style="fill: #5875a4; stroke: #ffffff; stroke-width: 1.5; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_6">
+    <path d="M 296.705455 512.64 
+L 345.403636 512.64 
+L 345.403636 441.981488 
+L 296.705455 441.981488 
+z
+" clip-path="url(#p1b16b2d21c)" style="fill: #5875a4; stroke: #ffffff; stroke-width: 1.5; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_7">
+    <path d="M 357.578182 512.64 
+L 406.276364 512.64 
+L 406.276364 472.513201 
+L 357.578182 472.513201 
+z
+" clip-path="url(#p1b16b2d21c)" style="fill: #5875a4; stroke: #ffffff; stroke-width: 1.5; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_8">
+    <path d="M 418.450909 512.64 
+L 467.149091 512.64 
+L 467.149091 478.843878 
+L 418.450909 478.843878 
+z
+" clip-path="url(#p1b16b2d21c)" style="fill: #5875a4; stroke: #ffffff; stroke-width: 1.5; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_9">
+    <path d="M 479.323636 512.64 
+L 528.021818 512.64 
+L 528.021818 484.002111 
+L 479.323636 484.002111 
+z
+" clip-path="url(#p1b16b2d21c)" style="fill: #5875a4; stroke: #ffffff; stroke-width: 1.5; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_10">
+    <path d="M 540.196364 512.64 
+L 588.894545 512.64 
+L 588.894545 486.494554 
+L 540.196364 486.494554 
+z
+" clip-path="url(#p1b16b2d21c)" style="fill: #5875a4; stroke: #ffffff; stroke-width: 1.5; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_11">
+    <path d="M 601.069091 512.64 
+L 649.767273 512.64 
+L 649.767273 491.658258 
+L 601.069091 491.658258 
+z
+" clip-path="url(#p1b16b2d21c)" style="fill: #5875a4; stroke: #ffffff; stroke-width: 1.5; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_12">
+    <path d="M 661.941818 512.64 
+L 710.64 512.64 
+L 710.64 494.757901 
+L 661.941818 494.757901 
+z
+" clip-path="url(#p1b16b2d21c)" style="fill: #5875a4; stroke: #ffffff; stroke-width: 1.5; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_13">
+    <path d="M 722.814545 512.64 
+L 771.512727 512.64 
+L 771.512727 90.24 
+L 722.814545 90.24 
+z
+" clip-path="url(#p1b16b2d21c)" style="fill: #5875a4; stroke: #ffffff; stroke-width: 1.5; stroke-linejoin: miter"/>
+   </g>
+   <g id="line2d_9">
+    <path clip-path="url(#p1b16b2d21c)" style="fill: none; stroke: #424242; stroke-width: 3.375; stroke-linecap: round"/>
+   </g>
+   <g id="line2d_10">
+    <path clip-path="url(#p1b16b2d21c)" style="fill: none; stroke: #424242; stroke-width: 3.375; stroke-linecap: round"/>
+   </g>
+   <g id="line2d_11">
+    <path clip-path="url(#p1b16b2d21c)" style="fill: none; stroke: #424242; stroke-width: 3.375; stroke-linecap: round"/>
+   </g>
+   <g id="line2d_12">
+    <path clip-path="url(#p1b16b2d21c)" style="fill: none; stroke: #424242; stroke-width: 3.375; stroke-linecap: round"/>
+   </g>
+   <g id="line2d_13">
+    <path clip-path="url(#p1b16b2d21c)" style="fill: none; stroke: #424242; stroke-width: 3.375; stroke-linecap: round"/>
+   </g>
+   <g id="line2d_14">
+    <path clip-path="url(#p1b16b2d21c)" style="fill: none; stroke: #424242; stroke-width: 3.375; stroke-linecap: round"/>
+   </g>
+   <g id="line2d_15">
+    <path clip-path="url(#p1b16b2d21c)" style="fill: none; stroke: #424242; stroke-width: 3.375; stroke-linecap: round"/>
+   </g>
+   <g id="line2d_16">
+    <path clip-path="url(#p1b16b2d21c)" style="fill: none; stroke: #424242; stroke-width: 3.375; stroke-linecap: round"/>
+   </g>
+   <g id="line2d_17">
+    <path clip-path="url(#p1b16b2d21c)" style="fill: none; stroke: #424242; stroke-width: 3.375; stroke-linecap: round"/>
+   </g>
+   <g id="line2d_18">
+    <path clip-path="url(#p1b16b2d21c)" style="fill: none; stroke: #424242; stroke-width: 3.375; stroke-linecap: round"/>
+   </g>
+   <g id="line2d_19">
+    <path clip-path="url(#p1b16b2d21c)" style="fill: none; stroke: #424242; stroke-width: 3.375; stroke-linecap: round"/>
+   </g>
+   <g id="patch_14">
+    <path d="M 108 512.64 
+L 108 69.12 
+" style="fill: none; stroke: #ffffff; stroke-width: 1.875; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_15">
+    <path d="M 777.6 512.64 
+L 777.6 69.12 
+" style="fill: none; stroke: #ffffff; stroke-width: 1.875; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_16">
+    <path d="M 108 512.64 
+L 777.6 512.64 
+" style="fill: none; stroke: #ffffff; stroke-width: 1.875; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_17">
+    <path d="M 108 69.12 
+L 777.6 69.12 
+" style="fill: none; stroke: #ffffff; stroke-width: 1.875; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="text_22">
+    <!-- 2020年各个国家地区的互联网用户占比 -->
+    <g style="fill: #262626" transform="translate(356.29155 63.12) scale(0.1008 -0.1008)">
+     <defs>
+      <path id="SIL-Hei-Med-Jian-5e74" d="M 216 659 
+Q 228 828 228 925 
+Q 228 1013 209 1206 
+Q 281 1206 441 1197 
+Q 628 1181 669 1181 
+L 1456 1181 
+L 1456 2372 
+Q 1456 2528 1434 2831 
+L 1738 2822 
+L 2069 2813 
+L 3253 2813 
+L 3253 3750 
+L 1906 3750 
+Q 1747 3516 1694 3431 
+L 1400 2963 
+Q 1322 2838 1034 2466 
+Q 759 2681 422 2784 
+Q 1600 3881 1919 5209 
+Q 2275 5028 2716 4975 
+Q 2472 4800 2141 4234 
+L 5150 4234 
+Q 5200 4234 5431 4247 
+Q 5631 4259 5725 4259 
+Q 5697 4081 5697 4000 
+Q 5697 3903 5722 3725 
+Q 5656 3725 5453 3738 
+Q 5244 3750 5184 3750 
+L 3803 3750 
+L 3803 2809 
+L 4828 2809 
+Q 4919 2809 5159 2822 
+Q 5409 2831 5441 2831 
+Q 5419 2659 5419 2563 
+Q 5419 2481 5444 2300 
+Q 5406 2300 5163 2313 
+Q 4928 2325 4844 2325 
+L 3800 2325 
+L 3800 1181 
+L 5475 1181 
+Q 5522 1181 5766 1197 
+Q 5975 1206 6113 1206 
+Q 6100 1006 6100 922 
+L 6106 653 
+Q 5663 688 5475 688 
+L 3800 688 
+L 3800 -350 
+Q 3800 -600 3819 -934 
+L 3503 -928 
+L 3219 -934 
+Q 3250 -606 3250 -363 
+L 3250 684 
+L 778 684 
+Q 688 684 447 672 
+Q 369 669 216 659 
+z
+M 2000 1184 
+L 3250 1184 
+L 3250 2325 
+L 2000 2325 
+L 2000 1184 
+z
+" transform="scale(0.015625)"/>
+      <path id="SIL-Hei-Med-Jian-5404" d="M 219 2034 
+Q 1766 2125 2906 2766 
+Q 2513 3156 2125 3850 
+Q 1722 3222 1334 2794 
+Q 1038 3038 722 3131 
+Q 1706 3825 2222 5228 
+Q 2528 5122 2934 5056 
+Q 2678 4844 2488 4516 
+L 4203 4516 
+L 4697 4525 
+L 5131 4531 
+Q 4641 3459 3631 2703 
+Q 4591 2263 6156 2191 
+Q 5916 1903 5828 1494 
+Q 4325 1788 3234 2406 
+Q 1856 1669 613 1469 
+Q 488 1756 219 2034 
+z
+M 2525 4034 
+Q 2794 3469 3294 3006 
+Q 3941 3516 4281 4034 
+L 2525 4034 
+z
+M 1478 -919 
+L 1484 -647 
+L 1491 -256 
+L 1491 947 
+L 1484 1328 
+L 1478 1559 
+L 3266 1541 
+L 5072 1559 
+L 5066 1294 
+L 5059 1000 
+L 5059 -300 
+L 5066 -622 
+L 5072 -900 
+Q 4869 -866 4772 -866 
+Q 4672 -866 4481 -897 
+Q 4500 -528 4500 -428 
+L 2016 -428 
+L 2028 -925 
+Q 1834 -897 1738 -897 
+Q 1650 -897 1478 -919 
+z
+M 2016 6 
+L 4500 6 
+L 4500 1113 
+L 2016 1113 
+L 2016 6 
+z
+" transform="scale(0.015625)"/>
+      <path id="SIL-Hei-Med-Jian-4e2a" d="M 159 2391 
+Q 1178 2803 1897 3536 
+Q 2616 4269 2891 5172 
+Q 3213 4966 3603 4916 
+Q 3428 4841 3347 4709 
+Q 4319 3047 6175 2709 
+Q 5841 2453 5634 2100 
+Q 4588 2625 4088 3072 
+Q 3588 3519 3097 4372 
+Q 2375 3069 709 1919 
+Q 497 2194 159 2391 
+z
+M 2797 -925 
+Q 2831 -584 2831 -469 
+L 2831 2616 
+Q 2831 2928 2772 3119 
+Q 3053 3056 3353 3041 
+L 3578 3028 
+Q 3419 2891 3419 2681 
+L 3419 -453 
+Q 3419 -556 3434 -744 
+L 3450 -925 
+Q 3234 -897 3125 -897 
+Q 3016 -897 2797 -925 
+z
+" transform="scale(0.015625)"/>
+      <path id="SIL-Hei-Med-Jian-56fd" d="M 1706 3841 
+Q 2006 3816 2197 3816 
+L 4256 3816 
+Q 4506 3816 4766 3841 
+Q 4753 3669 4753 3581 
+Q 4753 3497 4766 3325 
+Q 4434 3347 4269 3347 
+L 3409 3347 
+L 3409 2572 
+L 4188 2572 
+Q 4425 2572 4644 2606 
+Q 4622 2422 4622 2334 
+Q 4622 2241 4641 2066 
+Q 4363 2088 4181 2088 
+L 3409 2088 
+L 3409 1041 
+L 4441 1041 
+Q 4600 1041 4884 1063 
+Q 4863 888 4863 800 
+Q 4863 713 4884 541 
+Q 4566 563 4413 563 
+L 1938 563 
+Q 1763 563 1516 541 
+Q 1528 716 1528 803 
+Q 1528 891 1516 1063 
+Q 1756 1041 1972 1041 
+L 2909 1041 
+L 2909 2088 
+L 2306 2088 
+Q 2056 2088 1816 2066 
+Q 1825 2225 1825 2313 
+Q 1825 2403 1809 2600 
+Q 1928 2591 1988 2588 
+Q 2159 2572 2231 2572 
+L 2909 2572 
+L 2909 3347 
+L 2184 3347 
+Q 2028 3347 1706 3325 
+Q 1719 3497 1719 3581 
+Q 1719 3669 1706 3841 
+z
+M 4088 1950 
+Q 4238 1728 4506 1419 
+Q 4259 1350 4028 1234 
+Q 3891 1506 3666 1766 
+Q 3894 1841 4088 1950 
+z
+M 684 4941 
+Q 978 4916 1244 4916 
+L 5128 4916 
+Q 5422 4916 5756 4941 
+Q 5734 4688 5734 4403 
+L 5734 -428 
+Q 5734 -709 5756 -938 
+Q 5559 -913 5475 -913 
+Q 5359 -913 5156 -938 
+Q 5178 -750 5178 -653 
+L 5178 -466 
+L 1234 -466 
+L 1234 -653 
+Q 1234 -750 1259 -931 
+Q 1056 -916 959 -916 
+Q 863 -916 684 -928 
+Q 709 -653 709 -450 
+L 709 4403 
+Q 709 4625 684 4941 
+z
+M 1238 4397 
+L 1238 9 
+L 5184 9 
+L 5184 4397 
+L 1238 4397 
+z
+" transform="scale(0.015625)"/>
+      <path id="SIL-Hei-Med-Jian-5bb6" d="M 181 -75 
+Q 941 6 1777 447 
+Q 2613 888 3194 1516 
+L 3019 1794 
+L 2956 1744 
+Q 1903 900 656 453 
+Q 544 797 263 963 
+Q 863 1025 1630 1369 
+Q 2397 1713 2747 2078 
+L 2522 2284 
+Q 1950 1884 641 1469 
+Q 478 1763 206 1978 
+L 319 1975 
+Q 769 1975 1537 2294 
+Q 2306 2613 2778 2994 
+L 2225 2994 
+Q 1694 2994 1313 2944 
+Q 1331 3144 1331 3244 
+Q 1331 3347 1313 3547 
+Q 1788 3506 2472 3506 
+L 4325 3506 
+Q 4619 3506 5069 3566 
+Q 5056 3359 5056 3253 
+Q 5056 3156 5069 2956 
+Q 4722 2994 4341 2994 
+L 3478 2994 
+L 2947 2584 
+L 2881 2531 
+L 2944 2481 
+Q 3334 2150 3603 1738 
+Q 4150 1984 4850 2709 
+Q 5106 2353 5425 2222 
+Q 5281 2194 5138 2113 
+L 4891 1972 
+L 4631 1825 
+Q 4603 1806 4541 1766 
+Q 4841 488 6138 156 
+Q 5706 -47 5503 -444 
+Q 5459 -406 5438 -391 
+Q 4772 159 4509 545 
+Q 4247 931 4113 1556 
+L 3772 1328 
+Q 3878 866 3878 438 
+Q 3878 -225 3618 -481 
+Q 3359 -738 2531 -894 
+Q 2509 -897 2466 -906 
+Q 2466 -497 2213 -219 
+Q 2419 -247 2619 -247 
+Q 3088 -247 3239 -114 
+Q 3391 19 3391 431 
+Q 3391 644 3344 1050 
+Q 2716 316 1631 -181 
+L 784 -566 
+Q 772 -572 672 -622 
+Q 497 -247 181 -75 
+z
+M 484 3253 
+Q 506 3738 506 3950 
+L 494 4566 
+Q 1022 4506 1694 4506 
+L 3019 4506 
+Q 2888 4844 2725 5091 
+Q 3066 5091 3447 5178 
+L 3606 4516 
+L 4819 4516 
+Q 5328 4516 5894 4553 
+Q 5872 4122 5872 3875 
+Q 5872 3681 5897 3244 
+Q 5672 3259 5569 3259 
+Q 5459 3259 5256 3247 
+Q 5256 3338 5263 3425 
+Q 5275 3575 5275 3591 
+L 5275 3997 
+L 1094 3997 
+L 1094 3647 
+Q 1094 3534 1106 3256 
+Q 906 3278 803 3278 
+Q 697 3278 484 3253 
+z
+" transform="scale(0.015625)"/>
+      <path id="SIL-Hei-Med-Jian-5730" d="M 416 -375 
+Q 344 -100 175 209 
+Q 597 259 1053 441 
+L 1053 2816 
+L 781 2816 
+Q 716 2816 534 2803 
+Q 438 2797 247 2784 
+Q 256 2956 256 3041 
+Q 256 3128 247 3300 
+Q 319 3300 534 3288 
+Q 750 3275 806 3275 
+L 1041 3275 
+L 1041 4253 
+L 1034 4650 
+L 1028 4944 
+Q 1372 4856 1725 4838 
+Q 1519 4641 1519 4328 
+L 1519 3275 
+L 1778 3275 
+Q 2000 3275 2219 3300 
+Q 2206 3131 2206 3044 
+Q 2206 2959 2219 2791 
+L 2047 2803 
+Q 1866 2816 1756 2816 
+L 1522 2816 
+L 1522 572 
+Q 2019 781 2322 978 
+Q 2297 778 2297 669 
+Q 2297 581 2319 391 
+Q 1353 78 416 -375 
+z
+M 2078 2656 
+Q 2281 2694 2541 2769 
+Q 2606 2788 2738 2825 
+L 2738 3700 
+L 2731 3972 
+L 2719 4281 
+Q 3059 4194 3391 4175 
+Q 3219 4019 3219 3609 
+L 3219 2966 
+L 3906 3194 
+L 3906 4569 
+Q 3906 4853 3872 5203 
+Q 4181 5131 4481 5103 
+Q 4381 4881 4381 4531 
+L 4381 3341 
+L 5238 3622 
+Q 5453 3694 5731 3853 
+Q 5719 3625 5709 3509 
+Q 5694 3294 5691 3253 
+L 5613 1641 
+Q 5588 1088 5441 927 
+Q 5294 766 4747 684 
+Q 4700 1153 4531 1416 
+L 4663 1388 
+Q 4775 1363 4841 1363 
+Q 5009 1363 5062 1477 
+Q 5116 1591 5116 1969 
+L 5150 3116 
+L 4381 2888 
+L 4381 938 
+Q 4381 906 4400 563 
+Q 4413 388 4413 288 
+Q 4234 306 4144 306 
+Q 4056 306 3878 288 
+Q 3878 338 3888 575 
+Q 3903 863 3903 944 
+L 3903 2747 
+L 3219 2497 
+L 3219 109 
+Q 3219 -175 3298 -237 
+Q 3378 -300 3738 -300 
+L 4891 -300 
+Q 5275 -300 5406 -147 
+Q 5538 6 5600 528 
+Q 5891 225 6203 122 
+Q 6009 -456 5784 -612 
+Q 5559 -769 4922 -769 
+L 3600 -769 
+Q 3044 -769 2889 -644 
+Q 2734 -519 2734 -69 
+L 2734 2322 
+Q 2478 2209 2206 2063 
+Q 2184 2363 2078 2656 
+z
+" transform="scale(0.015625)"/>
+      <path id="SIL-Hei-Med-Jian-533a" d="M 538 -681 
+Q 547 -516 553 -434 
+Q 569 -194 569 -91 
+L 569 4253 
+Q 569 4559 531 4850 
+Q 866 4813 1200 4813 
+L 5034 4813 
+Q 5169 4813 5663 4859 
+Q 5631 4666 5631 4566 
+Q 5631 4453 5681 4222 
+L 5353 4247 
+Q 5122 4263 5019 4263 
+L 1119 4263 
+L 1119 -116 
+L 5178 -116 
+Q 5669 -116 5925 -72 
+Q 5897 -281 5897 -391 
+Q 5897 -488 5928 -697 
+Q 5488 -650 5169 -650 
+L 1125 -650 
+Q 863 -650 538 -681 
+z
+M 1559 744 
+Q 2231 1072 3222 2128 
+Q 2128 3034 1622 3306 
+Q 1897 3475 2072 3725 
+Q 2344 3453 3366 2606 
+Q 3413 2569 3509 2488 
+L 3606 2625 
+Q 4138 3375 4344 3919 
+Q 4613 3684 4944 3516 
+Q 4681 3309 4409 2906 
+Q 4328 2784 4078 2447 
+Q 4016 2359 3891 2188 
+Q 4647 1538 4963 1259 
+L 5347 922 
+Q 5031 725 4822 444 
+Q 4409 1078 3584 1822 
+Q 3269 1459 3159 1350 
+L 2406 609 
+Q 2363 566 2150 309 
+Q 1916 575 1559 744 
+z
+" transform="scale(0.015625)"/>
+      <path id="SIL-Hei-Med-Jian-7684" d="M 516 -750 
+L 522 -534 
+L 534 -216 
+L 534 3394 
+Q 534 3750 513 4016 
+Q 663 4006 734 4003 
+Q 925 3988 972 3988 
+L 1216 3988 
+Q 1275 4191 1297 4547 
+L 1319 4822 
+Q 1322 4894 1334 5122 
+Q 1681 5063 2069 5028 
+Q 1872 4772 1709 4116 
+L 1678 3988 
+L 2181 3988 
+Q 2328 3988 2609 4003 
+L 2856 4016 
+L 2856 2709 
+Q 3634 3613 3972 5200 
+Q 4231 5081 4691 4972 
+Q 4534 4831 4381 4519 
+L 4225 4200 
+Q 4203 4153 4141 4016 
+L 5316 4016 
+Q 5559 4016 5978 4038 
+Q 5956 3897 5950 3850 
+L 5938 3619 
+L 5747 134 
+Q 5713 -450 5455 -634 
+Q 5197 -819 4294 -906 
+Q 4197 -469 3988 -213 
+Q 4372 -278 4644 -278 
+Q 4978 -278 5092 -161 
+Q 5206 -44 5228 319 
+L 5406 3531 
+L 3947 3531 
+L 3872 3372 
+Q 3591 2778 3400 2416 
+Q 3172 2556 2856 2628 
+L 2856 -156 
+Q 2856 -225 2869 -450 
+Q 2881 -666 2881 -709 
+Q 2694 -675 2603 -675 
+Q 2503 -675 2313 -709 
+Q 2334 -384 2334 -13 
+L 1044 -13 
+L 1044 -225 
+Q 1044 -316 1056 -522 
+L 1066 -744 
+Q 891 -722 803 -722 
+Q 706 -722 516 -750 
+z
+M 2338 3506 
+L 1041 3506 
+L 1041 2181 
+L 2338 2181 
+L 2338 3506 
+z
+M 1041 431 
+L 2341 431 
+L 2341 1731 
+L 1041 1731 
+L 1041 431 
+z
+M 3519 2147 
+Q 3791 2219 3975 2378 
+Q 4063 2228 4084 2188 
+L 4294 1788 
+Q 4400 1584 4669 1197 
+Q 4416 1122 4119 950 
+Q 3947 1575 3519 2147 
+z
+" transform="scale(0.015625)"/>
+      <path id="SIL-Hei-Med-Jian-4e92" d="M 356 -541 
+Q 381 -328 381 -216 
+Q 381 -119 356 88 
+L 1181 66 
+L 4019 66 
+L 4178 1059 
+L 2225 1059 
+L 1847 1047 
+L 1581 1038 
+L 1644 1353 
+Q 1875 2525 2019 3619 
+L 2091 4172 
+L 1316 4172 
+Q 988 4172 659 4138 
+Q 672 4303 672 4400 
+Q 672 4500 647 4722 
+L 1097 4713 
+L 1644 4700 
+L 4931 4700 
+L 5294 4700 
+L 5791 4713 
+Q 5769 4519 5769 4431 
+Q 5769 4328 5788 4141 
+Q 5191 4172 4869 4172 
+L 2684 4172 
+L 2516 3222 
+L 4225 3222 
+L 4688 3234 
+L 5075 3244 
+Q 4966 2559 4797 1219 
+L 4650 56 
+L 5450 56 
+Q 5694 56 6059 75 
+Q 6047 -106 6047 -216 
+Q 6047 -316 6069 -547 
+Q 5625 -519 5344 -519 
+L 1169 -519 
+L 647 -531 
+L 356 -541 
+z
+M 2238 1556 
+L 4250 1556 
+L 4409 2716 
+L 2431 2716 
+L 2238 1556 
+z
+" transform="scale(0.015625)"/>
+      <path id="SIL-Hei-Med-Jian-8054" d="M 209 397 
+L 384 394 
+Q 503 394 763 419 
+L 763 4263 
+L 547 4263 
+Q 428 4263 291 4247 
+Q 316 4450 316 4544 
+Q 316 4628 303 4775 
+Q 631 4750 738 4750 
+L 2581 4750 
+Q 2759 4750 2988 4781 
+Q 2963 4603 2963 4519 
+Q 2963 4425 2988 4244 
+Q 2791 4259 2719 4259 
+L 2538 4259 
+L 2538 706 
+L 3119 816 
+Q 3034 700 3019 450 
+L 3009 341 
+Q 2772 303 2538 253 
+L 2538 -384 
+Q 3069 -259 3503 370 
+Q 3938 1000 3938 1647 
+L 3409 1647 
+Q 3059 1647 2734 1625 
+Q 2750 1806 2750 1894 
+Q 2750 1997 2731 2194 
+Q 3059 2159 3331 2159 
+L 3978 2159 
+L 3978 3288 
+L 3559 3288 
+Q 3194 3288 2850 3244 
+Q 2894 3459 2894 3569 
+Q 2894 3663 2859 3856 
+Q 3306 3813 3509 3813 
+L 4403 3813 
+Q 4700 4513 4828 5184 
+Q 5159 4994 5553 4909 
+Q 5247 4669 4953 4050 
+Q 4916 3972 4838 3813 
+L 5250 3813 
+Q 5516 3813 5841 3859 
+Q 5819 3681 5819 3584 
+Q 5819 3475 5859 3244 
+Q 5441 3288 5206 3288 
+L 4500 3288 
+L 4500 2159 
+L 5259 2159 
+Q 5584 2159 6006 2203 
+Q 5997 2013 5997 1900 
+Q 5997 1813 6009 1606 
+Q 5519 1647 5244 1647 
+L 4553 1647 
+Q 4681 281 6178 -222 
+Q 5822 -425 5644 -822 
+L 5547 -741 
+Q 4984 -263 4718 109 
+Q 4453 481 4278 1038 
+Q 4163 484 3825 -53 
+Q 3488 -591 3072 -881 
+Q 2906 -503 2541 -431 
+L 2541 -631 
+Q 2541 -716 2559 -906 
+Q 2384 -888 2303 -888 
+Q 2203 -888 2019 -906 
+Q 2028 -781 2034 -719 
+Q 2053 -531 2053 -472 
+L 2053 163 
+Q 1594 63 1359 19 
+Q 722 -106 406 -253 
+Q 325 197 209 397 
+z
+M 1234 503 
+L 2053 609 
+L 2053 1506 
+L 1234 1506 
+L 1234 503 
+z
+M 1238 1938 
+L 2056 1938 
+L 2056 2900 
+L 1238 2900 
+L 1238 1938 
+z
+M 1234 3325 
+L 2056 3325 
+L 2056 4259 
+L 1234 4259 
+L 1234 3325 
+z
+M 3181 4963 
+Q 3488 5028 3766 5131 
+Q 3809 4759 4113 4188 
+Q 3847 4144 3566 4053 
+Q 3441 4625 3181 4963 
+z
+" transform="scale(0.015625)"/>
+      <path id="SIL-Hei-Med-Jian-7f51" d="M 616 -822 
+Q 647 -600 647 -347 
+L 647 4600 
+Q 647 4706 622 5019 
+Q 859 4994 1100 4994 
+L 5278 4994 
+Q 5525 4994 5781 5019 
+Q 5756 4803 5756 4613 
+L 5756 -128 
+Q 5756 -578 5539 -726 
+Q 5322 -875 4603 -916 
+Q 4584 -547 4297 -184 
+Q 4675 -231 4891 -231 
+Q 5081 -231 5134 -168 
+Q 5188 -106 5188 119 
+L 5188 4450 
+L 1184 4450 
+L 1184 534 
+Q 1663 1094 2141 2141 
+Q 1834 2847 1369 3572 
+Q 1631 3653 1847 3769 
+Q 2094 3256 2375 2716 
+Q 2547 3259 2684 4028 
+Q 2988 3863 3328 3794 
+Q 3159 3638 3000 3206 
+L 2766 2581 
+Q 2731 2484 2638 2175 
+Q 2856 1666 3256 988 
+Q 3519 1347 3831 2028 
+Q 3597 2594 3269 3131 
+L 3134 3353 
+Q 3384 3434 3597 3575 
+Q 3819 3100 4066 2628 
+Q 4206 3075 4341 3944 
+Q 4663 3822 5034 3769 
+Q 4831 3553 4691 3069 
+Q 4681 3044 4494 2481 
+Q 4441 2328 4344 2009 
+Q 4600 1456 4691 1256 
+L 4969 641 
+Q 4684 572 4419 425 
+Q 4263 1003 4066 1516 
+Q 3700 834 3309 216 
+Q 3003 375 2675 434 
+Q 2984 656 3219 950 
+Q 2950 878 2706 744 
+Q 2544 1213 2375 1625 
+Q 2044 913 1663 238 
+Q 1422 372 1188 450 
+L 1188 -356 
+Q 1188 -544 1219 -822 
+Q 1019 -788 913 -788 
+Q 816 -788 616 -822 
+z
+" transform="scale(0.015625)"/>
+      <path id="SIL-Hei-Med-Jian-7528" d="M 275 -616 
+Q 853 -209 1058 292 
+Q 1263 794 1263 1809 
+L 1263 4613 
+Q 1263 4647 1244 4797 
+Q 1238 4856 1231 4969 
+Q 1569 4931 1706 4931 
+L 5319 4931 
+Q 5725 4931 5925 4963 
+Q 5888 4775 5888 4566 
+L 5888 -316 
+Q 5888 -647 5639 -784 
+Q 5391 -922 4797 -922 
+Q 4797 -534 4538 -256 
+L 4691 -272 
+Q 4931 -297 5069 -297 
+Q 5316 -297 5316 3 
+L 5316 1478 
+L 3763 1478 
+L 3763 -156 
+Q 3763 -291 3794 -519 
+Q 3606 -488 3509 -488 
+Q 3403 -488 3184 -531 
+Q 3234 -300 3234 -31 
+L 3234 1478 
+L 1816 1478 
+Q 1763 616 1597 159 
+Q 1431 -297 941 -928 
+Q 763 -734 275 -616 
+z
+M 1831 4391 
+L 1831 3397 
+L 3234 3397 
+L 3234 4391 
+L 1831 4391 
+z
+M 1822 1959 
+L 3234 1959 
+L 3234 2944 
+L 1822 2944 
+L 1822 1959 
+z
+M 3763 4384 
+L 3763 3397 
+L 5316 3397 
+L 5316 4384 
+L 3763 4384 
+z
+M 3759 2944 
+L 3759 1959 
+L 5316 1959 
+L 5316 2944 
+L 3759 2944 
+z
+" transform="scale(0.015625)"/>
+      <path id="SIL-Hei-Med-Jian-6237" d="M 428 -547 
+Q 1094 9 1328 593 
+Q 1563 1178 1563 2288 
+Q 1563 3547 1525 4178 
+L 1859 4169 
+L 2219 4159 
+L 5125 4159 
+L 5559 4159 
+L 5884 4169 
+Q 5875 4050 5872 3988 
+Q 5859 3841 5859 3794 
+L 5859 1428 
+L 5859 1178 
+Q 5859 1144 5872 1003 
+Q 5641 1019 5531 1019 
+L 5259 1013 
+Q 5281 1284 5281 1538 
+L 5281 1703 
+L 2109 1703 
+Q 2013 769 1792 251 
+Q 1572 -266 1003 -894 
+Q 750 -663 428 -547 
+z
+M 2109 2197 
+L 5281 2197 
+L 5281 3634 
+L 2109 3634 
+L 2109 2197 
+z
+M 3169 5038 
+Q 3450 5084 3738 5225 
+Q 3919 4822 4138 4466 
+Q 3809 4419 3538 4275 
+Q 3406 4681 3169 5038 
+z
+" transform="scale(0.015625)"/>
+      <path id="SIL-Hei-Med-Jian-5360" d="M 922 -916 
+Q 956 -447 956 -166 
+L 956 1584 
+Q 956 1959 909 2316 
+Q 1325 2263 1625 2263 
+L 2603 2263 
+L 2603 4631 
+Q 2603 4994 2566 5266 
+Q 2850 5188 3313 5188 
+Q 3197 4975 3197 4750 
+L 3197 3978 
+L 5219 3978 
+Q 5634 3978 5956 4038 
+Q 5916 3822 5916 3725 
+Q 5916 3613 5947 3416 
+Q 5681 3463 5228 3463 
+L 3200 3463 
+L 3200 2263 
+L 4434 2263 
+Q 4825 2263 5250 2306 
+Q 5213 2028 5213 1741 
+L 5213 -116 
+Q 5213 -522 5269 -891 
+Q 5053 -869 4938 -869 
+Q 4819 -869 4572 -897 
+Q 4581 -763 4588 -694 
+Q 4606 -519 4606 -472 
+L 4606 -259 
+L 1516 -259 
+L 1516 -453 
+Q 1516 -678 1550 -931 
+Q 1325 -881 1219 -881 
+Q 1116 -881 922 -916 
+z
+M 1513 228 
+L 4606 228 
+L 4606 1800 
+L 1513 1800 
+L 1513 228 
+z
+" transform="scale(0.015625)"/>
+      <path id="SIL-Hei-Med-Jian-6bd4" d="M 509 -328 
+Q 734 -113 734 188 
+L 734 4275 
+Q 734 4394 709 4756 
+Q 706 4822 700 4947 
+Q 947 4863 1263 4863 
+L 1441 4863 
+Q 1300 4606 1300 4250 
+L 1300 3047 
+L 2113 3047 
+Q 2184 3047 2494 3066 
+Q 2713 3078 2772 3078 
+Q 2759 2897 2759 2806 
+Q 2759 2716 2772 2531 
+Q 2675 2531 2478 2547 
+Q 2172 2566 2122 2566 
+L 1297 2566 
+L 1297 44 
+L 2684 1000 
+Q 2684 653 2816 350 
+Q 1734 -247 909 -894 
+Q 763 -603 509 -328 
+z
+M 3200 5184 
+Q 3484 5113 3741 5113 
+L 3981 5116 
+Q 3891 4931 3869 4716 
+L 3841 4431 
+Q 3819 4225 3819 4203 
+L 3819 2559 
+Q 4581 2988 5247 3638 
+Q 5466 3278 5791 3038 
+Q 5394 2888 4013 2159 
+L 3803 2050 
+L 3803 466 
+Q 3803 -84 3843 -154 
+Q 3884 -225 4203 -225 
+L 4603 -225 
+Q 4959 -225 5079 -47 
+Q 5200 131 5294 800 
+Q 5594 469 5972 350 
+Q 5791 -316 5562 -536 
+Q 5334 -756 4825 -756 
+L 4038 -756 
+Q 3519 -756 3376 -618 
+Q 3234 -481 3234 22 
+L 3234 4406 
+Q 3234 4797 3200 5184 
+z
+" transform="scale(0.015625)"/>
+     </defs>
+     <use xlink:href="#SIL-Hei-Med-Jian-32"/>
+     <use xlink:href="#SIL-Hei-Med-Jian-30" x="54.101562"/>
+     <use xlink:href="#SIL-Hei-Med-Jian-32" x="108.203125"/>
+     <use xlink:href="#SIL-Hei-Med-Jian-30" x="162.304688"/>
+     <use xlink:href="#SIL-Hei-Med-Jian-5e74" x="216.40625"/>
+     <use xlink:href="#SIL-Hei-Med-Jian-5404" x="316.40625"/>
+     <use xlink:href="#SIL-Hei-Med-Jian-4e2a" x="416.40625"/>
+     <use xlink:href="#SIL-Hei-Med-Jian-56fd" x="516.40625"/>
+     <use xlink:href="#SIL-Hei-Med-Jian-5bb6" x="616.40625"/>
+     <use xlink:href="#SIL-Hei-Med-Jian-5730" x="716.40625"/>
+     <use xlink:href="#SIL-Hei-Med-Jian-533a" x="816.40625"/>
+     <use xlink:href="#SIL-Hei-Med-Jian-7684" x="916.40625"/>
+     <use xlink:href="#SIL-Hei-Med-Jian-4e92" x="1016.40625"/>
+     <use xlink:href="#SIL-Hei-Med-Jian-8054" x="1116.40625"/>
+     <use xlink:href="#SIL-Hei-Med-Jian-7f51" x="1216.40625"/>
+     <use xlink:href="#SIL-Hei-Med-Jian-7528" x="1316.40625"/>
+     <use xlink:href="#SIL-Hei-Med-Jian-6237" x="1416.40625"/>
+     <use xlink:href="#SIL-Hei-Med-Jian-5360" x="1516.40625"/>
+     <use xlink:href="#SIL-Hei-Med-Jian-6bd4" x="1616.40625"/>
+    </g>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="p1b16b2d21c">
+   <rect x="108" y="69.12" width="669.6" height="443.52"/>
+  </clipPath>
+ </defs>
+</svg>
