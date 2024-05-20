@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200.0" height="600.0">
+<style>text{font-family:'JetBrains Mono';font-weight:bold;font-style:normal;}</style>
+<rect width="100%" height="100%" style="fill:White"></rect>
+<text transform="translate(163.5,235.5)" font-size="225.0" style="fill:rgb(31, 161, 135)">Iceland</text>
+<text transform="translate(246.0,485.0)" font-size="204.0" style="fill:rgb(94, 201, 98)">Norway</text>
+<text transform="translate(400.5,363.5)" font-size="169.5" style="fill:rgb(72, 40, 120)">Sweden</text>
+<text transform="translate(75.0,573.5)" font-size="109.5" style="fill:rgb(170, 220, 50)">Afghanistan</text>
+<text transform="translate(36.0,317.5)" font-size="87.0" style="fill:rgb(41, 122, 142)">Finland</text>
+<text transform="translate(657.0,100.0)" font-size="87.0" style="fill:rgb(31, 160, 136)">Bermuda</text>
+<text transform="translate(322.5,58.0)" font-size="72.0" style="fill:rgb(124, 210, 80)">Morocco</text>
+<text transform="translate(1173.0,562.0) rotate(-90)" font-size="72.0" style="fill:rgb(70, 51, 127)">United_States</text>
+<text transform="translate(796.5,579.5)" font-size="52.5" style="fill:rgb(253, 231, 37)">Mozambique</text>
+<text transform="translate(7.5,425.0)" font-size="52.5" style="fill:rgb(60, 79, 138)">Denmark</text>
+<text transform="translate(1099.5,510.5) rotate(-90)" font-size="52.5" style="fill:rgb(105, 205, 91)">Qatar</text>
+<text transform="translate(44.5,239.0) rotate(-90)" font-size="43.5" style="fill:rgb(251, 231, 35)">Myanmar</text>
+<text transform="translate(39.0,364.0)" font-size="43.5" style="fill:rgb(38, 173, 129)">Portugal</text>
+<text transform="translate(27.0,43.0)" font-size="43.5" style="fill:rgb(52, 97, 141)">Nauru</text>
+<text transform="translate(1043.5,539.0) rotate(-90)" font-size="43.5" style="fill:rgb(61, 188, 116)">San_Marino</text>
+<text transform="translate(91.5,488.5)" font-size="43.5" style="fill:rgb(239, 229, 28)">Canada</text>
+<text transform="translate(282.0,103.0)" font-size="43.5" style="fill:rgb(88, 199, 101)">Netherlands</text>
+<text transform="translate(811.5,30.0)" font-size="34.5" style="fill:rgb(43, 117, 142)">Liechtenstein</text>
+<text transform="translate(51.0,172.5)" font-size="34.5" style="fill:rgb(72, 36, 117)">Kuwait</text>
+<text transform="translate(163.5,45.0)" font-size="34.5" style="fill:rgb(76, 194, 108)">Bahrain</text>
+<text transform="translate(27.0,449.0)" font-size="25.5" style="fill:rgb(72, 27, 109)">Namibia</text>
+<text transform="translate(801.0,257.0)" font-size="25.5" style="fill:rgb(33, 166, 133)">Mongolia</text>
+<text transform="translate(48.0,81.0)" font-size="25.5" style="fill:rgb(71, 42, 122)">Poland</text>
+<text transform="translate(82.5,198.5)" font-size="25.5" style="fill:rgb(189, 223, 38)">Liberia</text>
+<text transform="translate(33.5,355.5) rotate(-90)" font-size="25.5" style="fill:rgb(72, 36, 117)">Russia</text>
+<text transform="translate(138.0,447.5)" font-size="25.5" style="fill:rgb(70, 11, 94)">Albania</text>
+<text transform="translate(57.0,228.0)" font-size="25.5" style="fill:rgb(69, 5, 89)">Nepal</text>
+<text transform="translate(517.5,257.0)" font-size="25.5" style="fill:rgb(62, 74, 137)">North_America</text>
+<text transform="translate(637.5,29.0)" font-size="25.5" style="fill:rgb(58, 84, 140)">Switzerland</text>
+<text transform="translate(934.5,261.5)" font-size="25.5" style="fill:rgb(64, 70, 136)">Australia</text>
+<text transform="translate(999.0,529.5) rotate(-90)" font-size="25.5" style="fill:rgb(71, 42, 122)">New_Zealand</text>
+<text transform="translate(58.5,124.0)" font-size="22.5" style="fill:rgb(43, 116, 142)">South_Korea</text>
+<text transform="translate(226.5,254.5)" font-size="22.5" style="fill:rgb(45, 178, 125)">Luxembourg</text>
+<text transform="translate(648.0,504.5)" font-size="21.0" style="fill:rgb(45, 178, 125)">United_Arab_Emirates</text>
+</svg>
